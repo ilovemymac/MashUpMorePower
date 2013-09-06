@@ -10,25 +10,29 @@
 ##############################################################################################################################
 
 
-<name>Main Movie List</name>
+<name>Newest and Hottest Movie List</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/MainMovieList.xml</link>
-<thumbnail> </thumbnail>
-<date>09/5/13</date>
-
+<thumbnail>http://www.warrentheatres.com/moore_warren2.jpg </thumbnail>
+<date>09/6/13</date>
+<dir>
+    <name>FULL 1080 Movies</name>
+    <link></link>
+    <thumbnail></thumbnail>
+</dir>
 <name>[COLOR=FF0198E1]AWESOME 80s Movies 720P HD many in DD 5.1[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/80sMovies.xml</link>
 <thumbnail>http://imageshack.us/a/img710/9549/cpqh.jpg</thumbnail>
-<date>09/5/13</date>
+<date>09/6/13</date>
 
 <name>Discovery/History  Channel shows and Documentries More</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/Documentries.xml</link>
 <thumbnail>http://allindstrom.com/wordpress/wp-content/uploads/2010/11/documentary-channel-us-tv-good.jpg </thumbnail>
-<date>09/5/13</date>
+<date>09/6/13</date>
 
 <name>Family and Kids shows and movies</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/KidsShowsMovies.xml</link>
 <thumbnail>http://cdn-blog.hwtm.com/wp-content/uploads/2011/09/familymovienight_starwars_1.jpg </thumbnail>
-<date>09/5/13</date>
+<date>09/6/13</date>
 
 <name>Classic Disney Films</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/ClassicDisney.xml</link>
