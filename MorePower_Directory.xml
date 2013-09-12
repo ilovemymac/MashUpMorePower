@@ -3,9 +3,9 @@
 <fanart></fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Follow me on twitter @morepowerllc and facebook/morepowerrules[/COLOR]</message>
-
-<thumbnail>http://imageshack.us/photo/my-images/710/cpqh.jpg/</thumbnail>
+    <message>[COLOR=FF00FF00]Follow me on twitter @morepowerllc and facebook/morepowerrules[/COLOR]</message>
+    
+    <thumbnail>http://imageshack.us/photo/my-images/710/cpqh.jpg/</thumbnail>
 </info>
 ##############################################################################################################################
 
@@ -13,7 +13,7 @@
 <name>Newest and Hottest Movie List</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/MainMovieList.xml</link>
 <thumbnail>http://www.warrentheatres.com/moore_warren2.jpg </thumbnail>
-<date> DAILY</date>
+<date>DAILY</date>
 
 <name>[COLOR=FF0198E1]AWESOME 80s Movies 720P HD many in DD 5.1[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/80sMovies.xml</link>
@@ -39,3 +39,8 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/Full1080P.xml</link>
 <thumbnail>http://www.sahararesources.com/images/HD-ready_1080p_logo.jpg</thumbnail>
 <date>09/11/2013</date>
+
+<name>Eye Popping 3D movies /name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/3Dmovies.xml</link>
+<thumbnail> </thumbnail>
+<date>Daily</date>
