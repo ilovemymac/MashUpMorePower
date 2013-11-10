@@ -7,10 +7,13 @@
 </info>
 #######################################################################################################################################
 
-<name>Superfriends 1973</name>
+<item>
+    <title>Superfriends 1973</title>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/Superfriends.xml</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/c/c0/Super_Friends.jpg</thumbnail>
-
-<name>Chan and the Amazing Chan Clan</name>
+</item>
+<item>
+<title>Chan and the Amazing Chan Clan</title>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/chanclan.xml</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/c/c0/Super_Friends.jpg</thumbnail>
+</item>
