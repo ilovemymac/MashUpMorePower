@@ -2,10 +2,15 @@
 <fanart></fanart>
 #######################################################################################################################################
 <info>
-    <message>Some of the best 70s and 80s Cartoons</message>
+    <message></message>
     <thumbnail> </thumbnail>
 </info>
 #######################################################################################################################################
+<dir>
+<name>PLanet of the Apes Tv Series</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/planetoftheapestv.xml</link>
+<thumbnail> </thumbnail>
+</dir>
 
 <item>
 <title>Planet of the Apes (1968) 1080P DTS</title>
@@ -30,5 +35,15 @@
 <item>
     <title>Battle for the Planet of the Apes (1973) 1080P DTS</title>
     <link><sublink>http://megarelease.org/nfaacitj90yk</sublink><sublink>http://uncapped-downloads.com/nfaacitj90yk/Battle_For_The_Planet_Of_The_Apes.mp4.html</sublink><sublink>http://lemuploads.com/93xpc72ymf6g</sublink><sublink>http://epicshare.net/nfaacitj90yk/Battle_For_The_Planet_Of_The_Apes.mp4.html</sublink></link>
+    <thumbnail> </thumbnail>
+</item>
+<item>
+    <title>Planet of the Apes (2001) 1080P DTS</title>
+    <link><sublink>http://megarelease.org/q06fdylhoine</sublink><sublink>http://lemuploads.com/q06fdylhoine</sublink><sublink>http://epicshare.net/q06fdylhoine/Planet_Of_The_Apes_2001.mp4.html</sublink></link>
+    <thumbnail> </thumbnail>
+</item>
+<item>
+    <title>Rise of the PLanet of the Apes (2012) 1080P DTS</title>
+    <link><sublink>http://megarelease.org/868lbk079rct</sublink><sublink>http://lemuploads.com/868lbk079rct</sublink><sublink>http://epicshare.net/868lbk079rct/Rise_Of_The_Planet_Of_The_Apes.mp4.html</sublink></link>
     <thumbnail> </thumbnail>
 </item>
