@@ -9,6 +9,65 @@
 ########################################################################################################################################
 
 <item>
+    <title></title>
+    <link>
+        <sublink></sublink>
+        <sublink></sublink>
+        <sublink></sublink>
+    </link>
+    <thumbnail></thumbnail>
+</item>
+
+<item>
+    <title></title>
+    <link>
+        <sublink></sublink>
+        <sublink></sublink>
+        <sublink></sublink>
+    </link>
+    <thumbnail></thumbnail>
+</item>
+
+<item>
+    <title></title>
+    <link>
+        <sublink></sublink>
+        <sublink></sublink>
+        <sublink></sublink>
+    </link>
+    <thumbnail></thumbnail>
+</item>
+
+<item>
+    <title></title>
+    <link>
+        <sublink></sublink>
+        <sublink></sublink>
+        <sublink></sublink>
+    </link>
+    <thumbnail></thumbnail>
+</item>
+
+<item>
+    <title>Tron (1982) 720P</title>
+    <link>
+        <sublink>http://megarelease.org/e2t6jn6fttyf</sublink>
+        <sublink>http://lemuploads.com/e2t6jn6fttyf</sublink>
+        <sublink>http://epicshare.net/e2t6jn6fttyf</sublink>
+    </link>
+    <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/17/Tron_poster.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Hamburger Hill (1987) 720P</title>
+    <link>
+        <sublink>http://megarelease.org/6nh8hg0u8z7o</sublink>
+        <sublink>http://lemuploads.com/6nh8hg0u8z7o</sublink>
+        <sublink></sublink>
+    </link>
+    <thumbnail></thumbnail>
+</item>
+<item>
     <title>Back to the Future II (1989) 720P DTS</title>
     <link><sublink>http://megarelease.org/f5sy00yyflef</sublink><sublink>http://epicshare.net/f5sy00yyflef</sublink><sublink>http://lemuploads.com/f5sy00yyflef</sublink></link>
     <thumbnail> </thumbnail>
@@ -116,7 +175,7 @@
 
 <item>
     <title>Robocop (1987) 720P</title>
-    <link>http://180upload.com/bq89qwf5mnkq</link>
+    <link><sublink>http://megarelease.org/6g2e41xyczod</sublink><sublink>http://lemuploads.com/6g2e41xyczod</sublink></link>
     <thumbnail> </thumbnail>
     </item>
 
@@ -177,9 +236,13 @@
 <item>
   <title>The NeverEnding Story (1984) </title>
   <link><referer>http://vidto.me/nfr63b3c8h66.html</referer></link>
-  <thumbnail> </thumbnail>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9b/Neverendingstoryposter.jpg</thumbnail>
 </item>
-
+<item>
+    <title>The NeverEnding Story (1984) 720P</title>
+    <link><referer>http://megarelease.org/utifc5eqv3qf</referer></link>
+    <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9b/Neverendingstoryposter.jpg</thumbnail>
+</item>
 <item>
   <title>My Best Friend is a Vampire (1988)</title>
   <link>http://vidto.me/j6rzzoiub3am.html</link>
@@ -213,14 +276,14 @@
 </item>
 
 <item>
-  <title> The Goonies 1985 (720P) DD5.1</title>
+  <title> The Goonies (1985) 720P DD5.1</title>
   <link><sublink>http://180upload.com/umi7j210101e</sublink><sublink>http://megarelease.org/1sagibmqyizm</sublink><sublink>http://epicshare.net/1sagibmqyizm</sublink><sublink>http://lemuploads.com/1sagibmqyizm</sublink></link>
   <thumbnail> </thumbnail>
 </item>
 
 
 <item>
-<title>The Goonies 1985 </title>
+<title>The Goonies (1985) SD </title>
 <link>http://vidto.me/7f10fvl0fae8.html</link>
 <thumbnail>  </thumbnail>
 </item>
@@ -302,9 +365,9 @@
     <thumbnail> </thumbnail>
 </item>
 <item>
-  <title>The Jetsons Meet the Flintstones</title>
+  <title>The Jetsons Meet the Flintstones (1987)</title>
   <link>http://vidto.me/co1rxvnn9foo.html</link>
-  <thumbnail> </thumbnail>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d5/The_Jetsons_Meet_the_Flintstones.jpg</thumbnail>
 </item>
 
 
@@ -326,14 +389,20 @@
 </item>
 
 <item>
-<title>Weird Science (1985) 720P</title>
+    <title>Weird Science (1985) 720P</title>
+    <link>http://megarelease.org/itamg9zsdbp7</sublink><sublink>http://lemuploads.com/itamg9zsdbp7</link>
+    <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d6/Movie_poster_for_Weird_Science_%281985%29.jpg</thumbnail>
+</item>
+
+<item>
+<title>Weird Science (1985) SD</title>
 <link>http://vidto.me/k6j0d32hgdin.html</link>
 <thumbnail>  </thumbnail>
 </item>
 
 <item>
-<title>Earth Girls are Easy</title>
-<link>http://billionuploads.com/qykqzcbpdu5y</link>
+<title>Earth Girls are Easy (1988)</title>
+<link>http://vidto.me/4u29jwfnk8oi.html</link>
 <thumbnail>  </thumbnail>
 </item>
 
@@ -365,8 +434,8 @@
 </item>
 
 <item>
-<title>Star Trek IV: The Voyage Home (1080P) 5.1</title>
-<link><sublink>http://megarelease.org/2zg93q0nh5xl</sublink><sublink>http://epicshare.net/2zg93q0nh5xl</sublink><sublink>http://lemuploads.com/2zg93q0nh5xl</sublink></link>
+<title>Star Trek IV: The Voyage Home (1986) 720P 5.1</title>
+<link><sublink>http://megarelease.org/14h31bwhmtk7</sublink><sublink>http://epicshare.net/14h31bwhmtk7</sublink><sublink>http://lemuploads.com/14h31bwhmtk7</sublink></link>
 <thumbnail>  </thumbnail>
 </item>
 
@@ -500,13 +569,13 @@
 </item>
 
 <item>
-<title>Crocodile Dundee 1986 (720P)</title>
-<link><sublink>http://lemuploads.com/9jpmdhv0rmsz</sublink><sublink>http://epicshare.net/9jpmdhv0rmsz/Crocodile_Dundee_1_1986.mp4.html</sublink><sublink>http://megarelease.org/9jpmdhv0rmsz</sublink></link>
+<title>Crocodile Dundee (1986) 720P</title>
+<link><sublink>http://lemuploads.com/nnbzbkklsd3m</sublink><sublink>http://epicshare.net/nnbzbkklsd3m</sublink><sublink>http://megarelease.org/nnbzbkklsd3m</sublink></link>
 <thumbnail>  </thumbnail>
 </item>
 <item>
-    <title>Crocodile Dundee II 1988 (720P)</title>
-    <link><sublink>http://lemuploads.com/htfmp9378r1o</sublink><sublink>http://epicshare.net/htfmp9378r1o/Crocodile_Dundee_2_1988.mp4.html</sublink><sublink>http://megarelease.org/htfmp9378r1o</sublink></link>
+    <title>Crocodile Dundee II (1988) 720P</title>
+    <link><sublink>http://lemuploads.com/sngse8p8uzub</sublink><sublink>http://epicshare.net/sngse8p8uzub</sublink><sublink>http://megarelease.org/sngse8p8uzub</sublink></link>
     <thumbnail>  </thumbnail>
 </item>
 <item>
@@ -733,7 +802,7 @@
 
 <item>
 <title>The Last Starfighter 720P DD 5.1</title>
-<link>http://180upload.com/z6irf2tlbqqu</link>
+<link><sublink>http://180upload.com/z6irf2tlbqqu</sublink><sublink>http://megarelease.org/p8hx3yepdi3w</sublink><sublink>http://lemuploads.com/p8hx3yepdi3w</sublink></link>
 <thumbnail>  </thumbnail>
 </item>
 
@@ -934,16 +1003,17 @@
 <thumbnail>  </thumbnail>
 </item>
 
+
 <item>
-<title>Revenge of the Nerds II: Nerds in Paradise</title>
-<link>http://veehd.com/video/2283600_Revenge-of-the-Nerds-II-Nerds-in-Paradise-1987</link>
-<thumbnail>  </thumbnail>
+<title>Revenge of the Nerds (1984) 720P</title>
+<link><sublink>http://megarelease.org/804mvi9ubl6d</sublink><sublink>http://lemuploads.com/804mvi9ubl6d</sublink></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/5/54/Revengeofthenerdsposter.jpg</thumbnail>
 </item>
 
 <item>
-<title>Revenge of the Nerds</title>
-<link>http://180upload.com/cjt150p1ucb9</link>
-<thumbnail>  </thumbnail>
+    <title>Revenge of the Nerds II: Nerds in Paradise</title>
+    <link>http://veehd.com/video/2283600_Revenge-of-the-Nerds-II-Nerds-in-Paradise-1987</link>
+    <thumbnail>  </thumbnail>
 </item>
 
 <item>
@@ -989,12 +1059,6 @@
 </item>
 
 <item>
-<title>Screwballs</title>
-<link>http://billionuploads.com/khhrueoj3rc9</link>
-<thumbnail>  </thumbnail>
-</item>
-
-<item>
 <title>Secret Admirer (1985)</title>
 <link>http://180upload.com/t6whrb77ycdw</link>
 <thumbnail>  </thumbnail>
@@ -1008,14 +1072,8 @@
 
 <item>
 <title>Short Circuit  (1986) 720P</title>
-<link>http://180upload.com/qefjm40ked8b</link>
-<thumbnail>  </thumbnail>
-</item>
-
-<item>
-<title>Short Circuit (1986) 720P source 2</title>
-<link>http://movreel.com/i5xda8sezzz8/Short_Circuit_1986_720p_.mp4</link>
-<thumbnail>  </thumbnail>
+<link><sublink>http://megarelease.org/22r8weluewih</sublink><sublink>http://lemupload.com/22r8weluewih</sublink></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/db/Short_circuit.jpg</thumbnail>
 </item>
 
 <item>
