@@ -1,0 +1,32 @@
+<poster>MorePower</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message>Welcome back to the 80s the 80S rule</message>
+<thumbnail></thumbnail>
+<date>09/04/2013</date>
+</info>
+########################################################################################################################################
+
+<dir>
+
+<name>The A-Team (1983-1987)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/ateam.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/d0/A-Team-Logo.svg</thumbnail>
+</dir>
+<dir>
+<name>Airwolf (1984-1987)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/airwolf.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/c0/Super_Friends.jpg</thumbnail>
+</dir>
+<dir>
+<name>Superfriends 1978</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/superfriends1978.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3400/3259220247_ddbc5609f8_z.jpg?zz=1</thumbnail>
+</dir>
+
+<dir>
+<name>Super Friends: The Legendary Super Powers Show</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/superfriendssuperpowers.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/30/Super_Friends_The_Legendary_Super_Powers_Show.jpg</thumbnail>
+</dir>
