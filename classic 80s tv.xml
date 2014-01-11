@@ -16,13 +16,19 @@
 </dir>
 
 <dir>
+<name>StreetHawk (1985)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/streethawk.xml</link>
+<thumbnail>http://img526.imageshack.us/img526/3645/shimg.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>AirWolf (1984-1987)</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/airwolf.xml</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/13/AirwolfTitlecardOR.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>StreetHawk (1985)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/streethawk.xml</link>
-<thumbnail>http://img526.imageshack.us/img526/3645/shimg.jpg</thumbnail>
+<name>Knight Rider </name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/knightrider.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/13/AirwolfTitlecardOR.jpg</thumbnail>
 </dir>
