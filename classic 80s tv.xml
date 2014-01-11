@@ -15,11 +15,6 @@
 <thumbnail>http://goodlogo.com/images/extended.info/a/a.team/The_A-Team.jpg/thumbnail>
 </dir>
 
-<dir>
-<name>Street Hawk (1985)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/streethawk.xml</link>
-<thumbnail>http://img526.imageshack.us/img526/3645/shimg.jpg</thumbnail>
-</dir>
 
 <dir>
 <name>AirWolf (1984-1987)</name>
@@ -31,4 +26,9 @@
 <name>Knight Rider (1982-1986)</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/knightrider.xml</link>
 <thumbnail>http://www.famous-cars.net/wp-content/uploads/2010/04/Knight-Rider-1982-Car-550x388.jpg</thumbnail>
+</dir>
+<dir>
+<name>Street Hawk (1985)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/streethawk.xml</link>
+<thumbnail>http://img526.imageshack.us/img526/3645/shimg.jpg</thumbnail>
 </dir>
