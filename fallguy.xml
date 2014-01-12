@@ -1,0 +1,26 @@
+<poster>MorePower</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message>Some great 80s tv</message>
+<thumbnail></thumbnail>
+<date>09/04/2013</date>
+</info>
+########################################################################################################################################
+
+<dir>
+
+<name>The Fall Guy Season 1 (1981) </name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/fallguy1.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/seasons/71932-1-2.jpg</thumbnail>
+</dir>
+<dir>
+<name>The Fall Guy Season 2 (1982)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/fallguy2.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/seasons/71932-2.jpg</thumbnail>
+</dir>
+<dir>
+<name>The Fall Guy Season 3 (1983)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/fallguy3.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/seasons/71932-3.jpg</thumbnail>
+</dir>
