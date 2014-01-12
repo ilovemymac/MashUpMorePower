@@ -21,10 +21,20 @@
 <thumbnail>http://images.sodahead.com/polls/004132525/160130812_The_80s_xlarge.gif</thumbnail>
 <date>01/11/2014</date>
 
-<name>Classic 70s and 80s TV</name>
+<name>[COLOR=FF0198E1]Classic 70s and 80s TV[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/classic%2080s%20tv.xml</link>
 <thumbnail>http://www.thegreat80s.com/images/TV/80s-TV-Shows.jpg</thumbnail>
 <date>1/11/14</date>
+
+<name>CARTOON EXPRESS</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/70s80scartoons.xml</link>
+<thumbnail>http://whyimnotanartist.com/allcartoons.jpg</thumbnail>
+<date>01/08/2014</date>
+
+<name>Animated Movies</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/Animated.xml</link>
+<thumbnail>http://famillemouroux.free.fr/AnimatedMoviesLogo.gif</thumbnail>
+<date>12/2/2013</date>
 
 <name>Family Christmas</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/christmas.xml</link>
@@ -40,16 +50,6 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/KidsShowsMovies.xml</link>
 <thumbnail> </thumbnail>
 <date>11/5/13</date>
-
-<name>CARTOON EXPRESS</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/70s80scartoons.xml</link>
-<thumbnail>http://whyimnotanartist.com/allcartoons.jpg</thumbnail>
-<date>01/08/2014</date>
-
-<name>Animated Movies</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/Animated.xml</link>
-<thumbnail>http://famillemouroux.free.fr/AnimatedMoviesLogo.gif</thumbnail>
-<date>12/2/2013</date>
 
 <name>Classic Disney Live Films</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/ClassicDisney.xml</link>
@@ -87,7 +87,7 @@
 <date>10/26/2013</date>
 
 
-<name>Complete Planet of the Apes 1080P DTS</name>
+<name>Complete Planet of the Apes Movies 1080P DTS</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/planetoftheapes.xml</link>
 <thumbnail> </thumbnail>
 <date>11/25/2013</date>
@@ -96,12 +96,6 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/collections.xml</link>
 <thumbnail> </thumbnail>
 <date>11/25/2013</date>
-
-
-<name>JFK Movies, Documentries and more</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/jfk.xml</link>
-<thumbnail> </thumbnail>
-<date>11/23/2013</date>
 
 <name>Halloweentown Movies</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/halloweentown.xml</link>
