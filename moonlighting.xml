@@ -1,0 +1,33 @@
+<poster>MorePower</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message>Some great 80s tv</message>
+<thumbnail></thumbnail>
+<date>09/04/2013</date>
+</info>
+########################################################################################################################################
+
+
+<dir>
+
+<name>Moonlighting (1985)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/ateam1.xml</link>
+<thumbnail>http://goodlogo.com/images/extended.info/a/a.team/The_A-Team.jpg</thumbnail>
+</dir>
+<dir>
+<name>The A-Team Season 2</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/ateam2.xml</link>
+<thumbnail>http://goodlogo.com/images/extended.info/a/a.team/The_A-Team.jpg</thumbnail>
+</dir>
+<dir>
+<name>The A-Team Season 3</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/ateam3.xml</link>
+<thumbnail>http://goodlogo.com/images/extended.info/a/a.team/The_A-Team.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The A-Team Season 4</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/ateam4p.xml</link>
+<thumbnail>http://goodlogo.com/images/extended.info/a/a.team/The_A-Team.jpg</thumbnail>
+</dir>

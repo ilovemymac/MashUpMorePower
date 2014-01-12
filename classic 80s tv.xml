@@ -23,20 +23,27 @@
 <dir>
 <name>Knight Rider (1982-1986)</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/knightrider.xml</link>
-<thumbnail>http://www.famous-cars.net/wp-content/uploads/2010/04/Knight-Rider-1982-Car-550x388.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/77216-4.jpg</thumbnail>
 </dir>
 <dir>
 <name>Street Hawk (1985)</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/streethawk.xml</link>
-<thumbnail>http://img526.imageshack.us/img526/3645/shimg.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/73877-4.jpg</thumbnail>
 </dir>
 <dir>
 <name>The Fall Guy (1981-1986)</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/streethawk.xml</link>
-<thumbnail>http://i1.ytimg.com/vi/Aw-GP1D6cdo/hqdefault.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/71932-3.jpg</thumbnail>
 </dir>
 <dir>
 <name>Six Million Dollar Man TV Series (1974-1978)</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/sixmillionlist.xml</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b7/Sixmilliondollar1.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/77294-2.jpg</thumbnail>
 <date>11/16/2013</date>
+</dir>
+<dir>
+<name>Moonlighting (1985-1989)/name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/moonlighting.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/75078-1.jpg</thumbnail>
+<date>1/12/14</date>
+</dir>
