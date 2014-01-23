@@ -28,7 +28,7 @@
 <thumbnail>http://thetvdb.com/banners/_cache/posters/73200-4.jpg</thumbnail>
 </dir>
 <dir>
-<name>Six Million Dollar Man TV Series (1974-1978)</name>
+<name>Six Million Dollar Man TV Series (1974-1978) Still Classic even if not 80s</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/sixmillionlist.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/77294-2.jpg</thumbnail>
 </dir>
@@ -77,7 +77,21 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/outlaws.xml</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/515odl4U9YL.jpg</thumbnail>
 </dir>
-
+<dir>
+<name>Jake and the Fatman (1987-1992)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/jakefatman.xml</link>
+<thumbnail> </thumbnail>
+</dir>
+<dir>
+<name>The Flash TV Series (1990) OK not 80s but still classic</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/theflashtv.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/78650-4.jpg</thumbnail>
+</dir>
+<dir>
+<name>The Facts of Life (1979-1988)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/faceoflife.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/76130-1.jpg</thumbnail>
+</dir>
 ##############################################################################################################################################################
 <info>
     <message>[COLOR aqua]Follow Me On Twitter @ morepowerllc[/COLOR] [COLORblue]I am always updating. Please if you have anything to offer or a request let me know![/COLOR]</message>
