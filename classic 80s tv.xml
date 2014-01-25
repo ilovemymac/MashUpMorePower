@@ -28,59 +28,14 @@
 <thumbnail>http://thetvdb.com/banners/_cache/posters/73200-4.jpg</thumbnail>
 </dir>
 <dir>
-<name>Six Million Dollar Man TV Series (1974-1978) Still Classic even if not 80s</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/sixmillionlist.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/77294-2.jpg</thumbnail>
-</dir>
-<dir>
-<name>Moonlighting (1985-1989)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/moonlighting.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/75078-1.jpg</thumbnail>
-</dir>
-<dir>
-<name>Knight Rider (1982-1986)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/knightrider.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/77216-4.jpg</thumbnail>
-</dir>
-<dir>
-<name>Street Hawk (1985)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/streethawk.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/73877-4.jpg</thumbnail>
-</dir>
-<dir>
-<name>The Fall Guy (1981-1986)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/fallguy.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/71932-3.jpg</thumbnail>
-</dir>
-<dir>
-<name>The Greatest American Hero (1981-1983)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/greatestamericanhero.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/77267-6.jpg</thumbnail>
-</dir>
-<dir>
-<name>Riptide (1984-1986)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/riptide.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/77826-3.jpg</thumbnail>
-</dir>
-<dir>
 <name>The Dukes of Hazzard (1979-1985)</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/dukesofhazzard.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/77748-1.jpg</thumbnail>
 </dir>
 <dir>
-<name>The Highwayman (1988)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/highwayman.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/77859-1.jpg</thumbnail>
-</dir>
-<dir>
-<name>Outlaws (1986)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/outlaws.xml</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/515odl4U9YL.jpg</thumbnail>
-</dir>
-<dir>
-<name>Jake and the Fatman (1987-1992)</name>
-<link>https://github.com/mash2k3/MashUpMorePower/raw/master/jakefatman.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/72235-1.jpg</thumbnail>
+<name>The Fall Guy (1981-1986)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/fallguy.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/71932-3.jpg</thumbnail>
 </dir>
 <dir>
 <name>The Flash TV Series (1990) OK not 80s but still classic</name>
@@ -93,10 +48,57 @@
 <thumbnail>http://thetvdb.com/banners/_cache/posters/76130-1.jpg</thumbnail>
 </dir>
 <dir>
+<name>The Greatest American Hero (1981-1983)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/greatestamericanhero.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/77267-6.jpg</thumbnail>
+</dir>
+<dir>
+<name>The Highwayman (1988)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/highwayman.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/77859-1.jpg</thumbnail>
+</dir>
+<dir>
+<name>Jake and the Fatman (1987-1992)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/jakefatman.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/72235-1.jpg</thumbnail>
+</dir>
+<dir>
+<name>Knight Rider (1982-1986)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/knightrider.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/77216-4.jpg</thumbnail>
+</dir>
+<dir>
 <name>Manimal (1983)</name>
 <link>https://raw2.github.com/mash2k3/MashUpMorePower/master/manimal.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/73058-2.jpg</thumbnail>
 </dir>
+<dir>
+<name>Moonlighting (1985-1989)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/moonlighting.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/75078-1.jpg</thumbnail>
+</dir>
+<dir>
+<name>Outlaws (1986)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/outlaws.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/515odl4U9YL.jpg</thumbnail>
+</dir>
+<dir>
+<name>Riptide (1984-1986)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/riptide.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/77826-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Six Million Dollar Man TV Series (1974-1978) Still Classic even if not 80s</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/sixmillionlist.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/77294-2.jpg</thumbnail>
+</dir>
+<dir>
+<name>Street Hawk (1985)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/streethawk.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/73877-4.jpg</thumbnail>
+</dir>
+
 ##############################################################################################################################################################
 <info>
     <message>[COLOR aqua]Follow Me On Twitter @ morepowerllc[/COLOR] [COLORblue]I am always updating. Please if you have anything to offer or a request let me know![/COLOR]</message>
