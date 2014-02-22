@@ -16,7 +16,11 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/chanclan.xml</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/83/Chan_clan.jpg</thumbnail>
 </dir>
-
+<dir>
+<name>M.A.S.K. Mobile Armored Strike Kommand (1985-1986)</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/MASK.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/71117-2.jpg</thumbnail>
+</dir>
 <dir>
 <name>ALF the Animated Series </name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/alf.xml</link>
