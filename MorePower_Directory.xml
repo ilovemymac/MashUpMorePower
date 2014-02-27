@@ -11,7 +11,7 @@
 ##############################################################################################################################
 
 
-<name>Great New Movies and Favorites </name>
+<name>Great New Movies and MorePower Favorites</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/MainMovieList.xml</link>
 <thumbnail> </thumbnail>
 <date>12/11/2013</date>
@@ -64,12 +64,12 @@
 <name>Full 1080P Movies</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/Full1080P.xml</link>
 <thumbnail>http://www.sahararesources.com/images/HD-ready_1080p_logo.jpg</thumbnail>
-<date>01/30/2014</date>
+<date>Daily</date>
 
 <name>Eye Popping 3D movies</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/3Dmovies.xml</link>
 <thumbnail>http://www.pardaphash.com/uploads/images/660/57899.png</thumbnail>
-<date>10/9/2013</date>
+<date>Daily</date>
 
 <name>Complete Elvis movies Collection</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/elvis.xml</link>
