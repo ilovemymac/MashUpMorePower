@@ -2,10 +2,17 @@
 <poster>MorePower</poster>
 <fanart></fanart>
 #######################################################################################################################################
-<info>
-<message>[COLOR=FF00FF00]Follow me on twitter @morepowerllc and facebook/morepowerrules email ilovethe80s@icloud.com[/COLOR]</message>
-<thumbnail>http://imageshack.us/photo/my-images/710/cpqh.jpg</thumbnail>
-</info>
+<notify>
+<new>2</new>
+<message1>TV SHOWS SHOULD ALL NOW BE WORKING </message1>
+<message2>SORRY THE HOSTING SITE WAS DOWN</message2>
+<message3>PLEASE REPORT ANY BAD LINKS SO I CAN FIX</message3>
+<old>1</old>
+</notify>
+
+<message1></message1>
+<message2></message2>
+<message3></message3>
 
 
 ##############################################################################################################################
@@ -71,7 +78,7 @@
 <thumbnail>http://www.pardaphash.com/uploads/images/660/57899.png</thumbnail>
 <date>Daily</date>
 
-<name>[COLOR aquamarine]Complete Elvis movies Collection[/COLOR]</name>
+<name>[COLOR yellow]Complete Elvis movies Collection[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/elvis.xml</link>
 <thumbnail>http://wildgoo.com/mag1/Magnets%20Movie%20Poster%20Type/Elvis%20Presley%20movie%20posters%20%231.jpg</thumbnail>
 <date>11/1/2013</date>
