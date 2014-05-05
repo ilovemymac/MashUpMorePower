@@ -25,7 +25,12 @@
 <thumbnail>  </thumbnail>
 </item>
 
+<dir>
 
+<name>Americas Book Of Secrets series</name>
+<link>https://github.com/mash2k3/MashUpMorePower/raw/master/bookofsecrets.xml</link>
+<thumbnail>http://seriesandtv.com/wp-content/uploads/2012/01/H2-America-Book-of-Secrets-West-Point-premieres-saturday-january-21.png</thumbnail>
+</dir>
 <item>
     <title>Extreme Engineering Build it Bigger Biggest Casino</title>
     <link>
@@ -33,7 +38,7 @@
         <sublink></sublink>
         <sublink></sublink>
     </link>
-    <thumbnail></thumbnail>
+    <thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -43,7 +48,7 @@
         <sublink></sublink>
         <sublink></sublink>
     </link>
-    <thumbnail></thumbnail>
+    <thumbnail> </thumbnail>
 </item>
 <item>
     <title>Secrets of the CIA</title>
@@ -53,41 +58,6 @@
         <sublink></sublink>
     </link>
     <thumbnail> </thumbnail>
-</item>
-
-<item>
-    <title>Americas Book of Secrets Presidental Coverups 2012 </title>
-    <link>http://vidto.me/wleiiomr1vss.html</link>
-    <thumbnail>  </thumbnail>
-</item>
-<item>
-    <title>AMericas Book of Secrets The Playboy Mansion 2012</title>
-    <link>http://vidto.me/u322eqnfux9j.html</link>
-    <thumbnail>  </thumbnail>
-</item>
-
-<item>
-    <title>Americas Book of Secrets The Mystery Of Bigfoot 2012</title>
-    <link>http://vidto.me/epe339bd9rhi.html</link>
-    <thumbnail>  </thumbnail>
-</item>
-
-<item>
-    <title>Americas Book of Secrets The Presidential Assassins 2012</title>
-    <link>http://vidto.me/uj3rg1lairkv.html</link>
-    <thumbnail>  </thumbnail>
-</item>
-
-<item>
-    <title>Americas Book of Secrets The Monuments 2012 </title>
-    <link>http://vidto.me/uut6hy6exa4q.html</link>
-    <thumbnail>  </thumbnail>
-</item>
-
-<item>
-    <title>Americas Book of Secrets Lost Treasures 2012 </title>
-    <link>http://vidto.me/7sjs8aalu123.html</link>
-    <thumbnail>  </thumbnail>
 </item>
 
 <item>
@@ -437,18 +407,12 @@
 </item>
 
 <item>
-    <title>Ancient Aliens</title>
-    <link>http://vidto.me/d1vhnrzixfop.html</link>
-    <thumbnail>  </thumbnail>
-</item>
-
-<item>
     <title>Extreme Engineering Dubai Ski Resport</title>
     <link>http://vidto.me/2pgqdbthffzl.html</link>
     <thumbnail>  </thumbnail>
 </item>
 <item>
-    <title>History Channel MOst Extreme Airports</title>
+    <title>History Channel Most Extreme Airports</title>
     <link>http://vidto.me/a8ixbjzq104v.html</link>
     <thumbnail>  </thumbnail>
 </item>
