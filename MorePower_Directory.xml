@@ -2,13 +2,13 @@
 <poster>MorePower</poster>
 <fanart></fanart>
 #######################################################################################################################################
-<notify>
+<info>
 <new>3</new>
 <message1>Report bad links @morepowerllc, morepowerrules on FB or ilovethe80s@icloud.com</message1>
 <message2>Enjoy MOvies in thier full 5.1 surround sound</message2>
 <message3>Bare with us as we get all the new links up</message3>
 <old>1</old>
-</notify>
+</info>
 
 <message1></message1>
 <message2></message2>
@@ -17,85 +17,123 @@
 
 ##############################################################################################################################
 
-
+<item>
 <name>Great New Movies and MorePower Favorites</name>
-<linkhttps://github.com/ilovemymac/MashUpMorePower/raw/master/MainMovieList.xml</link>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MainMovieList.xml</link>
 <thumbnail> </thumbnail>
-<date>12/11/2013</date>
+<date>1/30/2016</date>
+</item>
 
+<item>
+<name>Movies from A-B</name>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/abmovies.xml</link>
+<thumbnail>http://ho.files-media.com/ud/content/freestyle/1/3/8567/20111124_165241.jpg</thumbnail>
+<date> </date>
+</item>
+<
+
+<item>
 <name>2015-2016 HD 5.1 Movies</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/20152016.xml</link>
 <thumbnail> </thumbnail>
 <date>11/25/2013</date>
+</item>
 
+<item>
 <name>[COLOR=FF0198E1]Totally AWESOME 80s Movies[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/80sMovies.xml</link>
 <thumbnail>http://images.sodahead.com/polls/004132525/160130812_The_80s_xlarge.gif</thumbnail>
 <date>Daily</date>
+</item>
 
+<item>
 <name>Box Sets</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/collections.xml</link>
 <thumbnail>http://static1.squarespace.com/static/503f0892c4aa93dffe114177/t/540831eee4b08f3466ff57fe/1409823215324/</thumbnail>
 <date>2/1/2016</date>
+</item>
 
+<item>
 <name>[COLOR=FF0198E1]Classic 70s and 80s TV[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classic80stv.xml</link>
 <thumbnail>http://www.thegreat80s.com/images/TV/80s-TV-Shows.jpg</thumbnail>
 <date>Daily</date>
+</item>
 
+<item>
 <name>[COLOR aqua]CARTOON EXPRESS[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/70s80scartoons.xml</link>
 <thumbnail>http://whyimnotanartist.com/allcartoons.jpg</thumbnail>
 <date>Daily</date>
+</item>
 
+<item>
 <name>[COLOR blue]Great Family and Kids Movies[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/KidsShowsMovies.xml</link>
 <thumbnail> </thumbnail>
 <date>Daily</date>
+</item>
 
+
+<item>
 <name>[COLOR=FF0198E1]VH1 Behind the Music and More Music Docs [/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/behindthemusic.xml</link>
 <thumbnail>http://www.westridge.com/uploads/series_logo/btm-logo.jpg</thumbnail>
 <date>12/06/2014</date>
+</item>
 
+<item>
 <name>Discovery/History  Channel shows and Documentaries More (coming soon)</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/Documentries.xml</link>
 <thumbnail> </thumbnail>
 <date>09/9/13</date>
+</item>
 
+<item>
 <name>[COLOR=FF0198E1]Classic Disney Live Action Films [/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/ClassicDisney.xml</link>
 <thumbnail>http://2.bp.blogspot.com/-NRY8Ujb6jJg/TcgJA-_tWdI/AAAAAAAALlQ/6BdhR2aPR3Q/s1600/wdcclogoA.jpg</thumbnail>
 <date>12/06/2014</date>
+</item>
 
+<item>
 <name>[COLOR=FF0198E1]Eye Popping 3D movies[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/3Dmovies.xml</link>
 <thumbnail>http://www.pardaphash.com/uploads/images/660/57899.png</thumbnail>
 <date>Daily</date>
+</item>
 
-<name>[COLOR yellow]Complete Elvis movies Collection[/COLOR]</name>
+<item>
+<name>[COLOR cornflowerblue]Complete Elvis movies Collection[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/elvis.xml</link>
 <thumbnail>http://wildgoo.com/mag1/Magnets%20Movie%20Poster%20Type/Elvis%20Presley%20movie%20posters%20%231.jpg</thumbnail>
 <date>4/6/2014</date>
+</item>
 
+<item>
 <name>Superhero Movies</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/superheros.xml</link>
 <thumbnail>http://film.edusites.co.uk/images/uploads/superheroes-banner-495w.jpg</thumbnail>
 <date>11/19/2013</date>
+</item>
 
+<item>
 <name>Universal Horror 1923-1958</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/universal.xml</link>
 <thumbnail> </thumbnail>
 <date>10/26/2013</date>
+</item>
 
-
+<item>
 <name>Halloween and horror movies Kids and Adults</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/halloween.xml</link>
 <thumbnail>http://rfrpodcast.com/blog/wp-content/uploads/2011/09/Universal-halloween-horror-nights-2011.jpg</thumbnail>
 <date>11/1/2013</date>
+</item>
 
+<item>
 <name>Family Christmas</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/christmas.xml</link>
 <thumbnail> </thumbnail>
 <date>12/23/2013</date>
-
+</item>
