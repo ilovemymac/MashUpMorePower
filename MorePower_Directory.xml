@@ -22,6 +22,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MainMovieList.xml</link>
 <thumbnail> </thumbnail>
 <date>1/30/2016</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -29,6 +30,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/abmovies.xml</link>
 <thumbnail>http://ho.files-media.com/ud/content/freestyle/1/3/8567/20111124_165241.jpg</thumbnail>
 <date> </date>
+<type>movies</type>
 </item>
 
 <item>
@@ -36,6 +38,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/cemovies.xml</link>
 <thumbnail>http://carthageenergy.com/ce_logo.gif</thumbnail>
 <date> </date>
+<type>movies</type>
 </item>
 
 <item>
@@ -43,6 +46,7 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/20152016.xml</link>
 <thumbnail>http://hd.wallpaperswide.com/thumbs/new_year_2022-t2.jpg</thumbnail>
 <date>1/30/16</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -50,6 +54,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/80sMovies.xml</link>
 <thumbnail>http://images.sodahead.com/polls/004132525/160130812_The_80s_xlarge.gif</thumbnail>
 <date>Daily</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -57,6 +62,7 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/collections.xml</link>
 <thumbnail>http://static1.squarespace.com/static/503f0892c4aa93dffe114177/t/540831eee4b08f3466ff57fe/1409823215324/</thumbnail>
 <date>2/1/2016</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -64,6 +70,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classic80stv.xml</link>
 <thumbnail>http://www.thegreat80s.com/images/TV/80s-TV-Shows.jpg</thumbnail>
 <date>Daily</date>
+<type>tv</type>
 </item>
 
 <item>
@@ -71,6 +78,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/70s80scartoons.xml</link>
 <thumbnail>http://whyimnotanartist.com/allcartoons.jpg</thumbnail>
 <date>Daily</date>
+<type>tv</type>
 </item>
 
 <item>
@@ -78,6 +86,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/KidsShowsMovies.xml</link>
 <thumbnail> </thumbnail>
 <date></date>
+<type>movies</type>
 </item>
 
 
@@ -86,6 +95,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/behindthemusic.xml</link>
 <thumbnail>http://www.westridge.com/uploads/series_logo/btm-logo.jpg</thumbnail>
 <date>12/06/2014</date>
+<type>tv></type>
 </item>
 
 <item>
@@ -93,6 +103,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/Documentries.xml</link>
 <thumbnail> </thumbnail>
 <date>09/9/13</date>
+<type>tv</type>
 </item>
 
 <item>
@@ -100,6 +111,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/ClassicDisney.xml</link>
 <thumbnail>http://2.bp.blogspot.com/-NRY8Ujb6jJg/TcgJA-_tWdI/AAAAAAAALlQ/6BdhR2aPR3Q/s1600/wdcclogoA.jpg</thumbnail>
 <date>12/06/2014</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -107,6 +119,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/3Dmovies.xml</link>
 <thumbnail>http://www.pardaphash.com/uploads/images/660/57899.png</thumbnail>
 <date>Daily</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -114,6 +127,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/elvis.xml</link>
 <thumbnail>http://wildgoo.com/mag1/Magnets%20Movie%20Poster%20Type/Elvis%20Presley%20movie%20posters%20%231.jpg</thumbnail>
 <date>4/6/2014</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -121,6 +135,7 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/superheros.xml</link>
 <thumbnail>http://film.edusites.co.uk/images/uploads/superheroes-banner-495w.jpg</thumbnail>
 <date>11/19/2013</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -128,6 +143,7 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/universal.xml</link>
 <thumbnail> </thumbnail>
 <date>10/26/2013</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -135,6 +151,7 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/halloween.xml</link>
 <thumbnail>http://rfrpodcast.com/blog/wp-content/uploads/2011/09/Universal-halloween-horror-nights-2011.jpg</thumbnail>
 <date>11/1/2013</date>
+<type>movies</type>
 </item>
 
 <item>
@@ -142,4 +159,5 @@
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/christmas.xml</link>
 <thumbnail> </thumbnail>
 <date>12/23/2013</date>
+<type>movies</type>
 </item>
