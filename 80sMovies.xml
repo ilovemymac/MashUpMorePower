@@ -125,7 +125,7 @@
     <thumbnail> </thumbnail>
 </item>
 <item>
-    <title>Predator (1987) Ultimate Hunter Edition </title>
+<title>Predator (1987) Ultimate Hunter Edition </title>
     <link><sublink></sublink>
         <sublink></sublink>
     </link>
@@ -216,17 +216,12 @@
 
 <item>
     <title> Back to the Future (1985)</title>
-    <link>http://streamin.to/e5lhykm9dwa9</link>
-    <thumbnail> </thumbnail>
-</item>
-<item>
-    <title>Back To the Future (1985)</title>
-    <link>http://clicknupload.me/ao5bvd5xeebb</link>
+    <link><sublink>http://clicknupload.me/ao5bvd5xeebb</sublink><sublink>http://streamin.to/e5lhykm9dwa9</sublink></link>
     <thumbnail> </thumbnail>
 </item>
 <item>
     <title>Jewel of the Nile (1985)</title>
-    <link><sublink>http://180upload.com/eoz8j7d6irla</sublink><sublink></sublink><sublink></sublink></link>
+    <link><sublink></sublink><sublink></sublink><sublink></sublink></link>
     <thumbnail> </thumbnail>
 </item>
 
@@ -310,18 +305,18 @@
 
   <item>
     <title>BMX Bandits (1983) 720P </title>
-    <link>http://180upload.com/ay0utir3wme7</link>
+    <link></link>
     <thumbnail> </thumbnail>
 </item>
 
 <item>
     <title>The Running Man (1987) 1080P </title>
-    <link><sublink>http://megarelease.org/2vnbkxl5wxjg</sublink><sublink>http://180upload.com/vhfu9y3gz47t</sublink></link>
+    <link><sublink></sublink><sublink></sublink></link>
     <thumbnail> </thumbnail>
 </item>
 
 <item>
-    <title>St Elmos Fire (1985) 720P </title>
+    <title>St Elmos Fire (1985)</title>
     <link><sublink>http://180upload.com/ng4ipmxw8qb9</sublink><<sublink>http://megarelease.org/6dgmitg12xn4</sublink><sublink>http://epicshare.net/6dgmitg12xn4/St.Elmos.Fire.1985.BluRay.720p.H264.mp4.html</sublink><sublink>http://lemuploads.com/6dgmitg12xn4</sublink></link>
     <thumbnail> </thumbnail>
 </item>
@@ -334,8 +329,8 @@
 
 
 <item>
-    <title>Screwballs (1983) 720P </title>
-    <link><sublink>http://180upload.com/ng4ipmxw8qb9</sublink><sublink>http://megarelease.org/6arqvv7l1zcq</sublink></link>
+    <title>Screwballs (1983)</title>
+    <link><sublink></sublink><sublink></sublink></link>
     <thumbnail> </thumbnail>
 </item>
 <item>
@@ -343,8 +338,6 @@
     <link>http://clicknupload.me/4kvknemuue2o</link>
     <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9b/Neverendingstoryposter.jpg</thumbnail>
 </item>
-
-
 
 <item>
   <title>My Best Friend is a Vampire (1988)</title>
@@ -359,14 +352,14 @@
 </item>
 
 <item>
-  <title>The Lost Boys (1987) 1080P </title>
+  <title>The Lost Boys (1987)</title>
   <link>http://clicknupload.me/u53nkdsyuj2c</link>
   <thumbnail> </thumbnail>
 </item>
 
 <item>
-  <title>The Monster Squad 1987 (720P) DD5.1</title>
-  <link>http://180upload.com/blhwmv88vng9</link>
+  <title>The Monster Squad (1987)</title>
+  <link></link>
   <thumbnail> </thumbnail>
 </item>
 
