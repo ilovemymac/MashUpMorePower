@@ -15,7 +15,7 @@
   <name>Report bad links @morepowerllc or morepowerrules on FB</name>
 </item>
 <item>
-<name>Great New Movies and MorePower Favorites</name>
+<name>Great Movies 2014 and older</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MainMovieList.xml</link>
 <thumbnail> </thumbnail>
 <date>1/30/2016</date>
@@ -38,6 +38,12 @@
 <type>movies</type>
 </item>
 
+<item>
+  <name>[COLOR green]Movies that take place in the future[/COLOR]</name>
+  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/future.xml</link>
+  <thumbnail> </thumbnail>
+  <type>movies</type>
+</item>
 <item>
 <name>2015-2016 HD 5.1 Movies</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/20152016.xml</link>
@@ -66,7 +72,7 @@
 </item>
 
 <item>
-<name>[COLOR=FF0198E1]Classic 70s & 80s TV[/COLOR]</name>
+<name>[COLOR=FF0198E1]Classic 70s and 80s TV[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classic80stv.xml</link>
 <thumbnail>http://www.thegreat80s.com/images/TV/80s-TV-Shows.jpg</thumbnail>
 <date>Daily</date>
