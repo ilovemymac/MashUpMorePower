@@ -73,6 +73,11 @@
 <type>tv</type>
 </item>
 
+<item><name>Classic Movies 30s-60s</name>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classicmovies.xml</link>
+<thumbnail>http://317am.org/wp-content/uploads/2011/12/317-hollywood-285x213.jpg</thumbnail>
+<type>movies</type>
+</item>
 <item>
 <name>[COLOR aqua]CARTOON EXPRESS[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/70s80scartoons.xml</link>
