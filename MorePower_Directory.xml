@@ -3,14 +3,17 @@
 #######################################################################################################################################
 <info>
 
-<message1>Report bad links @morepowerllc, morepowerrules on FB or ilovethe80s@icloud.com</message1>
-<message2>Enjoy MOvies in thier full 5.1 surround sound</message2>
+<message1>Report bad links @morepowerllc, morepowerrules on Facebook or ilovethe80s@icloud.com</message1>
+<message2>Enjoy Movies in thier full 5.1 surround sound</message2>
 <message3>Bare with us as we get all the new links up</message3>
 
 </info>
 
 ##############################################################################################################################
 
+<item>
+  <name>Report bad links @morepowerllc or morepowerrules on FB</name>
+</item>
 <item>
 <name>Great New Movies and MorePower Favorites</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MainMovieList.xml</link>
