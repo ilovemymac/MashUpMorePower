@@ -6,6 +6,13 @@
 <message1>Report bad links @morepowerllc, morepowerrules on Facebook or ilovethe80s@icloud.com</message1>
 <message2>Enjoy Movies in thier full 5.1 surround sound</message2>
 <message3>Bare with us as we get all the new links up</message3>
+<message4>Kodi  will convert these AAC 5.1 files to DD 
+simply go to audio and then
+Audio Output Device - select HDMI or optical if your using
+ that
+Number of Channels - 2.0
+Dolby Digital Capable Receiver - Selected
+Enable Dolby Digital Transcoding - Selected</message4>
 
 </info>
 
@@ -22,21 +29,6 @@
 <type>movies</type>
 </item>
 
-<item>
-<name>Movies from A-B</name>
-<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/abmovies.xml</link>
-<thumbnail>http://ho.files-media.com/ud/content/freestyle/1/3/8567/20111124_165241.jpg</thumbnail>
-<date> </date>
-<type>movies</type>
-</item>
-
-<item>
-<name>Movies from C-E</name>
-<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/cemovies.xml</link>
-<thumbnail>http://carthageenergy.com/ce_logo.gif</thumbnail>
-<date> </date>
-<type>movies</type>
-</item>
 
 <item>
   <name>[COLOR green]Movies that take place in the future[/COLOR]</name>
