@@ -21,6 +21,15 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <item>
   <name>Report bad links @morepowerllc or morepowerrules on FB</name>
 </item>
+
+<name>2015-2016 HD 5.1 Movies</name>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/20152016.xml</link>
+<thumbnail>https://steffyflores.files.wordpress.com/2015/01/stock-photo-46705118-2014-to-2015-business-target-3d-render.jpg</thumbnail>
+<date>1/30/16</date>
+<type>movies</type>
+</item>
+<item>
+ 
 <item>
 <name>Great Movies 2014 and older</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MainMovieList.xml</link>
@@ -37,13 +46,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
   <type>movies</type>
 </item>
 <item>
-<name>2015-2016 HD 5.1 Movies</name>
-<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/20152016.xml</link>
-<thumbnail>https://steffyflores.files.wordpress.com/2015/01/stock-photo-46705118-2014-to-2015-business-target-3d-render.jpg</thumbnail>
-<date>1/30/16</date>
-<type>movies</type>
-</item>
-<item>
+
 <space>
   
 </space></item>
@@ -64,14 +67,14 @@ Enable Dolby Digital Transcoding - Selected</message4>
 </item>
 
 <item>
-<name>[COLOR=FF0198E1]Classic 70s and 80s TV[/COLOR]</name>
+<name>[COLOR=FF0198E1][B]Classic 70s and 80s TV[/B][/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classic80stv.xml</link>
 <thumbnail>http://www.thegreat80s.com/images/TV/80s-TV-Shows.jpg</thumbnail>
 <date>Daily</date>
 <type>tv</type>
 </item>
 
-<item><name>Classic Movies 30s-60s</name>
+<item><name>Classic Movies 30s-60s (coming soon)</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classicmovies.xml</link>
 <thumbnail>http://317am.org/wp-content/uploads/2011/12/317-hollywood-285x213.jpg</thumbnail>
 <type>movies</type>
