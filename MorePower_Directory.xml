@@ -74,6 +74,13 @@ Enable Dolby Digital Transcoding - Selected</message4>
 </item>
 
 <item>
+ <name>Disaster and Disease Movies</name>
+ <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/disaster.xml</link>
+ <thumbnail>http://www.moviemadnesspodcast.com/wp-content/uploads/2014/12/UFR-Disaster-Movies.jpg</thumbnail>
+ <type>movies</type>
+</item>
+
+<item>
 <name>[COLOR=FF0198E1][B]Classic 70s and 80s TV[/B][/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classic80stv.xml</link>
 <thumbnail>http://www.thegreat80s.com/images/TV/80s-TV-Shows.jpg</thumbnail>
