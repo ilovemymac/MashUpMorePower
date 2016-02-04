@@ -21,6 +21,12 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <item>
   <name>Report bad links @morepowerllc or morepowerrules on FB</name>
 </item>
+<item>
+ <name>PLease read the above for proper surround settings thanks</name>
+</item>
+<item>
+ <name>Most all movies are in 5.1 or higher. Some older movies 80s and earlier are not but most are</name>
+</item>
 
 <name>2015-2016 HD 5.1 Movies</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/20152016.xml</link>
@@ -31,7 +37,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <item>
  
 <item>
-<name>Great Movies 2014 and older</name>
+<name>Great Movies 2014 and older HD 5.1 </name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MainMovieList.xml</link>
 <thumbnail> </thumbnail>
 <date>1/30/2016</date>
@@ -40,7 +46,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 
 
 <item>
-  <name>[COLOR green]Movies that take place in the future[/COLOR]</name>
+  <name>[COLOR green]Movies that take place in the future HD 5.1[/COLOR]</name>
   <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/future.xml</link>
   <thumbnail> </thumbnail>
   <type>movies</type>
@@ -51,7 +57,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
   
 </space></item>
 <item>
-<name>[COLOR=FF0198E1]Totally AWESOME 80s Movies[/COLOR]</name>
+<name>[COLOR=FF0198E1]Totally AWESOME 80s Movies HD 5.1[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/80sMovies.xml</link>
 <thumbnail>http://images.sodahead.com/polls/004132525/160130812_The_80s_xlarge.gif</thumbnail>
 <date>Daily</date>
@@ -59,7 +65,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 </item>
 
 <item>
-<name>Box Sets</name>
+<name>Box Sets 5.1 HD </name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/collections.xml</link>
 <thumbnail>http://static1.squarespace.com/static/503f0892c4aa93dffe114177/t/540831eee4b08f3466ff57fe/1409823215324/</thumbnail>
 <date>2/1/2016</date>
