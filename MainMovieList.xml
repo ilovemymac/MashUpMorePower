@@ -2,7 +2,11 @@
 <fanart></fanart>
 
 <item><name>**Please report bad links to ilovethe80s@icloud.com or @morepowerllc</name></item>
-
+<item>
+    <name>Movies Starting A-B</name>
+    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/abmovies.xml</link>
+    <thumbnail> </thumbnail>
+</item>
 
 <item>
     <title></title>
@@ -50,8 +54,8 @@
     <thumbnail></thumbnail>
 </item>
 <item>
-    <title></title>
-    <link> </link>
+    <title>The Voices (2014)</title>
+    <link>http://hugefiles.net/3h68wjyhixnl</link>
     <thumbnail> </thumbnail>
 </item>
 
