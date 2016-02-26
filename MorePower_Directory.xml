@@ -53,6 +53,12 @@ Enable Dolby Digital Transcoding - Selected</message4>
 </item>
 
 <item>
+ <name>Fuller House</name>
+ <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/fullerhouse.xml</link>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fuller_House_Logo.png/1920px-Fuller_House_Logo.png</thumbnail>
+</item>
+
+<item>
   <name>[COLOR green]Movies that take place in the future HD 5.1[/COLOR]</name>
   <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/future.xml</link>
   <thumbnail>http://i62.tinypic.com/x1m15j.jpg</thumbnail>
