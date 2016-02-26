@@ -28,6 +28,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <name>Most all movies are in 5.1 or higher. Some older movies 80s and earlier are not but most are</name>
 </item>
 
+
 <item>
 <name>[COLOR dodgerblue]2015-2016 HD 5.1 Movies[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/20152016.xml</link>
@@ -45,6 +46,11 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <type>movies</type>
 </item>
 
+<item>
+ <name>Presidental Debates 2016</name>
+ <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/Presidentialdebate.xml</link>
+ <thumbnail>http://graphics8.nytimes.com/images/2012/10/02/opinion/02iht-edchappatte02-image/02iht-edchappatte02-image-articleLarge.jpg</thumbnail>
+</item>
 
 <item>
   <name>[COLOR green]Movies that take place in the future HD 5.1[/COLOR]</name>
