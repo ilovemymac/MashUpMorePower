@@ -12,7 +12,11 @@
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/nightmare.xml</link>
     <thumbnail>http://www.new-video.de/co/dienightmareonelmstreetcollection.jpg</thumbnail>
 </item>
-
+<item>
+    <title>Star Wars Complete Collection</title>
+    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/starwars1.xml</link>
+    <thumbnail>http://www.bleedingcool.com/wp-content/uploads/2011/05/star-wars-4-to-6.jpg</thumbnail>
+</item>
 <item>
     <title>Back to the Future</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/backtothefuture.xml</link>
@@ -53,11 +57,7 @@
     <title>Men In Black</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MIB.xml</link>
 </item>
-<item>
-    <title>Star Wars Complete Collection</title>
-    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/starwars1.xml</link>
-    <thumbnail>http://www.bleedingcool.com/wp-content/uploads/2011/05/star-wars-4-to-6.jpg</thumbnail>
-</item>
+
 
 <item>
     <title>Transformers Collection</title>
