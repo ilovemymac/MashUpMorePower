@@ -9,20 +9,20 @@
 ########################################################################################################################################
 
 
-<dir>
+<item>
 
 <name>AirWolf Season  1 </name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/airwolf1.xml</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/13/AirwolfTitlecardOR.jpg</thumbnail>
-</dir>
-<dir>
+</item>
+<item>
 <name>Airwolf  Season 2</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/airwolf2.xml</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/13/AirwolfTitlecardOR.jpg</thumbnail>
-</dir>
-<dir>
+</item>
+<item>
 <name>Airwolf Season 3</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/airwolf3.xml</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/13/AirwolfTitlecardOR.jpg</thumbnail>
-</dir>
+</item>
 
