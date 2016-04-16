@@ -61,6 +61,7 @@
 <item>
     <title>Men In Black</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MIB.xml</link>
+    <thumbnail>http://www.mangpong.co.th/ProductImage/product/013310.jpg</thumbnail>
 </item>
 
 
@@ -74,6 +75,12 @@
     <title>Blade Colletion</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/blade.xml</link>
     <thumbnail>https://fanart.tv/fanart/movies/735/movieposter/blade-collection-522d2f2d90a6e.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Star Trek Collection</title>
+    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/startrek.xml</link>
+    <thumbnail>http://images.esellerpro.com/3605/I/906/45/Star%20Trek%20movies%201-10%20DVD.jpg</thumbnail>
 </item>
 
 <item>
