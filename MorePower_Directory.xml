@@ -61,6 +61,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <name>Time Travel Movies</name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/timetravel.xml</link>
  <thumbnail>http://www.brooklynstreetart.com/theblog/wp-content/uploads/2012/06/brooklyn-street-art-press-to-time-travel-nicholas-ta.jpg</thumbnail>
+ <type>movies</type>
 </item>
 
 <item>
@@ -92,7 +93,6 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <name>Box Sets 5.1 HD</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/collections.xml</link>
 <thumbnail>http://static1.squarespace.com/static/503f0892c4aa93dffe114177/t/540831eee4b08f3466ff57fe/1409823215324/</thumbnail>
-
 <type>movies</type>
 </item>
 
@@ -153,7 +153,6 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <name>[COLOR=FF0198E1]Classic Disney Live Action Films [/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/ClassicDisney.xml</link>
 <thumbnail>http://2.bp.blogspot.com/-NRY8Ujb6jJg/TcgJA-_tWdI/AAAAAAAALlQ/6BdhR2aPR3Q/s1600/wdcclogoA.jpg</thumbnail>
-<date>12/06/2014</date>
 <type>movies</type>
 </item>
 
