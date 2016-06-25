@@ -43,7 +43,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
     <thumbnail>http://www.bleedingcool.com/wp-content/uploads/2011/05/star-wars-4-to-6.jpg</thumbnail>
 </item>
 <item>
-<name>Awesome Action Films</name>
+<name>[COLOR green]Awesome Action Films[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/actionmovies.xml</link>
 <thumbnail>http://i64.tinypic.com/aaci2s.jpg</thumbnail>
 <date>1/30/2016</date>
@@ -108,7 +108,13 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <thumbnail>http://image.bayimg.com/abfb83d99404b69efa743900ae312afc98e28e89.jpg</thumbnail>
  <type>movies</type>
 </item>
-
+<item>
+<name>[COLOR blue]Great Family and Kids Live Action Movies[/COLOR]</name>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/Kidslive.xml</link>
+<thumbnail>http://i65.tinypic.com/2h3qtr8.jpg</thumbnail>
+<date></date>
+<type>movies</type>
+</item>
 <item>
 <name>[COLOR=FF0198E1][B]Classic 70s and 80s TV[/B][/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classic80stv.xml</link>
@@ -130,13 +136,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <type>tv</type>
 </item>
 
-<item>
-<name>[COLOR blue]Great Family and Kids Movies (coming soon)[/COLOR]</name>
-<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/KidsShowsMovies.xml</link>
-<thumbnail> </thumbnail>
-<date></date>
-<type>movies</type>
-</item>
+
 
 
 <item>
