@@ -109,10 +109,9 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <type>movies</type>
 </item>
 <item>
-<name>[COLOR blue]Great Family and Kids Live Action Movies[/COLOR]</name>
-<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/Kidslive.xml</link>
+<name>[COLOR royalblue]Great Family and Kids Live Action Movies[/COLOR]</name>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/kidslive.xml</link>
 <thumbnail>http://i65.tinypic.com/2h3qtr8.jpg</thumbnail>
-<date></date>
 <type>movies</type>
 </item>
 <item>
