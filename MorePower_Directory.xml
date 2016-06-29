@@ -53,7 +53,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <type>movies</type>
 </item>
 <item>
-<name>Comedy Movies</name>
+<name>[COLOR green][B]Comedy Movies[/B][/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/comedy.xml</link>
 <thumbnail>http://i64.tinypic.com/2s8ixck.jpg</thumbnail>
 <date>11/19/2013</date>
