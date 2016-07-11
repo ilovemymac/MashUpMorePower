@@ -99,28 +99,24 @@
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/lethalweapon.xml</link>
     <thumbnail>http://s2.thcdn.com/productimg/0/600/600/41/10237041-1305559298-475812.jpg</thumbnail>
 </item>
-<dir>
-<name>Planet of the Apes (1968-2011)</name>
+<item>
+<title>Planet of the Apes (1968-2011)</title>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/planetoftheapes.xml</link>
 <thumbnail>http://www.baseo.co.uk/Products/i/super__po-mohdbb0495281.jpg</thumbnail>
-</dir>
-<dir>
-    <name>Pirates of the Caribbean</name>
-    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/pirates.xml</link>
-    <thumbnail>http://www.weloveshopping.com/shop/serieswawa/mc004.jpg</thumbnail>
-</dir>
-<dir>
-<name>Naked Gun </name>
+</item>
+
+<item>
+<title>Naked Gun </title>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/nakedgun.xml</link>
 <thumbnail>http://www.baseo.co.uk/Products/i/super__po-mohdbb0495281.jpg</thumbnail>
-</dir>
-<dir>
-<name>Rush Hour</name>
+</item>
+<item>
+<title>Rush Hour</title>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/rushhour.xml</link>
 <thumbnail>http://postto.me/ig/rushhour.jpg</thumbnail>
-</dir>
-<dir>
-    <name>Terminator</name>
+</item>
+<item>
+    <title>Terminator</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/terminator.xml</link>
     <thumbnail>https://fanart.tv/fanart/movies/528/movieposter/the-terminator-collection-53111d52b8649.jpg</thumbnail>
-</dir>
+</item>
