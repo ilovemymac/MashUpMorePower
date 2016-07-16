@@ -2,6 +2,12 @@
 <item>
   <name>Welcome to our new tv area. All shows are posted in HD and if available in 5.1 as always</name>
 </item>
+
+<item>
+	<name>Stranger Things (2016)</name>
+	<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/strangerthings.xml</link>
+	<thumbnail>https://blog.screenweek.it/wp-content/uploads/2016/06/stranger-things.jpg</thumbnail>
+</item>
 <item>
     <name>The Lost Room (2006) Mini series</name>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/thelostroom.xml</link>
