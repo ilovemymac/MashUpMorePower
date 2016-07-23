@@ -60,7 +60,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <type>movies</type>
 </item>
 <item>
- <name>MGM Musicals</name>
+ <name>MGM Musicals (FIXED)</name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/mgmmusicals.xml</link>
  <thumbnail>http://i.ytimg.com/vi/OVCxJ1aT24A/hqdefault.jpg</thumbnail>
  <type>movies</type>
