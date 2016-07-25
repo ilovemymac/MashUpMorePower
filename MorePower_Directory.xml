@@ -44,6 +44,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
     <title>[COLOR dodgerblue]Star Wars Complete Collection[/COLOR]</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/starwars1.xml</link>
     <thumbnail>http://www.bleedingcool.com/wp-content/uploads/2011/05/star-wars-4-to-6.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 <item>
 <name>[COLOR green]Awesome Action Films[/COLOR]</name>
@@ -89,7 +90,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <name>SuperHero Movies</name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/superheros.xml</link>
  <thumbnail>http://i64.tinypic.com/2nge736.png</thumbnail></item>
- <type>movies</type>
+ <type>Movies</type>
 <item>
 <name>[COLOR=FF0198E1]Totally AWESOME 80s Movies HD 5.1[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/80sMovies.xml</link>
