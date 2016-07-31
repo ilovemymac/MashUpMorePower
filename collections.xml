@@ -11,62 +11,73 @@
     <title>Nightmare On Elm Street</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/nightmare.xml</link>
     <thumbnail>http://www.new-video.de/co/dienightmareonelmstreetcollection.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 <item>
     <title>Star Trek Collection</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/startrek.xml</link>
     <thumbnail>http://clzmovies.r.sizr.io/core/covers/lg/10/10_146696_0_StarTrekTheOriginalMotionPictu.jpg</thumbnail>
+     <type>Movies</type>
 </item>
 <item>
     <title>Star Wars Complete Collection</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/starwars1.xml</link>
     <thumbnail>http://www.bleedingcool.com/wp-content/uploads/2011/05/star-wars-4-to-6.jpg</thumbnail>
+     <type>Movies</type>
 </item>
 <dir>
     <name>Harry Potter Collection</name>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/harrypotter.xml</link>
     <thumbnail>http://www.monctoncouponlady.com/wp-content/uploads/2015/11/91BveJlhDSL._SL1500_-450x576.jpg</thumbnail>
+     <type>Movies</type>
 </dir>
 <item>
     <title>Back to the Future</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/backtothefuture.xml</link>
     <thumbnail>http://www.ramascreen.com/wp-content/uploads/2015/09/Back-To-The-Future-30th-Anniversary-Trilogy-Blu-Ray-set.jpg</thumbnail>
+     <type>Movies</type>
 </item>
 
 <item>
     <title>Dirty Harry Collection</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/dirtyharry.xml</link>
     <thumbnail>http://ecx.images-amazon.com/images/I/71zkmvqaRVL._SL1168_.jpg</thumbnail>
+     <type>Movies</type>
 </item>
 
 <item>
     <title>Elvis Complete Collection</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/elvis.xml</link>
     <thumbnail>http://wildgoo.com/mag1/Magnets%20Movie%20Poster%20Type/Elvis%20Presley%20movie%20posters%20%231.jpg</thumbnail>
+     <type>Movies</type>
 </item>
 
 <item>
     <title>[COLOR dodgerblue]James Bond Complete HD 5.1[/COLOR]</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/jamesbond.xml</link>
-    <thumbnail>http://hdmag.cz/files/covers/james-bond-blu-ray-collection-blu-ray.jpg</thumbnail>
+     <thumbnail>http://hdmag.cz/files/covers/james-bond-blu-ray-collection-blu-ray.jpg</thumbnail>
+     <type>Movies</type>
 </item>
 
 <item>
     <title>Fast and Furious Collection</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/fastfurious.xml</link>
     <thumbnail>http://pyd2.pocketyourdollar.netdna-cdn.com/wp-content/uploads/2015/03/Capture173.png</thumbnail>
+    <type>Movies</type>
 </item>
 
 <item>
     <title>Mission Impossible</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/mi.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Missionimpossibleblurayboxset.jpg/220px-Missionimpossibleblurayboxset.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 
 <item>
     <title>Men In Black</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MIB.xml</link>
     <thumbnail>http://www.mangpong.co.th/ProductImage/product/013310.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 
 
@@ -74,54 +85,64 @@
     <title>Transformers Collection</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/transformersmovies.xml</link>
     <thumbnail>http://www.geeksofdoom.com/GoD/img/2014/05/transformers-movie-bluray-boxset.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 
 <item>
     <title>Blade Colletion</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/blade.xml</link>
     <thumbnail>https://fanart.tv/fanart/movies/735/movieposter/blade-collection-522d2f2d90a6e.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 
 <item>
     <title>Die Hard</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/diehard.xml</link>
     <thumbnail>http://www.gadgetreview.com/wp-content/uploads/2012/07/Die-Hard-collection.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 
 <item>
     <title>Pirates of the Caribbean</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/pirates.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/68/PiratesDVDs.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 
 <item>
     <title>Lethal Weapon</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/lethalweapon.xml</link>
     <thumbnail>http://s2.thcdn.com/productimg/0/600/600/41/10237041-1305559298-475812.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 <item>
 <title>Planet of the Apes (1968-2011)</title>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/planetoftheapes.xml</link>
 <thumbnail>http://www.baseo.co.uk/Products/i/super__po-mohdbb0495281.jpg</thumbnail>
+<type>Movies</type>
 </item>
 
 <item>
 <title>Naked Gun </title>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/nakedgun.xml</link>
 <thumbnail>http://www.baseo.co.uk/Products/i/super__po-mohdbb0495281.jpg</thumbnail>
+<type>Movies</type>
 </item>
 <item>
 <title>Rush Hour</title>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/rushhour.xml</link>
 <thumbnail>http://postto.me/ig/rushhour.jpg</thumbnail>
+<type>Movies</type>
 </item>
 <item>
     <title>Terminator</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/terminator.xml</link>
     <thumbnail>https://fanart.tv/fanart/movies/528/movieposter/the-terminator-collection-53111d52b8649.jpg</thumbnail>
+    <type>Movies</type>
 </item>
 <item>
     <title>Resident Evil</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/residentevil.xml</link>
     <thumbnail>http://s4.thcdn.com/productimg/0/600/600/27/10631627-1348159294-566678.png</thumbnail>
+    <type>Movies</type>
 </item>
