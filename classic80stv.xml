@@ -45,7 +45,7 @@
 <thumbnail>http://thetvdb.com/banners/_cache/posters/71932-3.jpg</thumbnail>
 </item>
 <item>
-<name>The Flash TV Series (1990) OK not 80s but still classic</name>
+<name>The Flash TV Series (1990)</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/theflashtv.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/78650-4.jpg</thumbnail>
 </item>
@@ -63,6 +63,11 @@
 <name>The Highwayman (1988)</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/highwayman.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/77859-1.jpg</thumbnail>
+</item>
+<item>
+    <title>Hardcastle and Mccormick (1983-1986)</title>
+    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/hardcastle.xml</link>
+    <thumbnail>http://thetvdb.com/banners/_cache/posters/72534-2.jpg</thumbnail>
 </item>
 <item>
     <title>Hill Street blues (1981)</title>
