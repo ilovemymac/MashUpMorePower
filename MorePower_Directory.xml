@@ -90,7 +90,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <name>SuperHero Movies</name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/superheros.xml</link>
  <thumbnail>http://i64.tinypic.com/2nge736.png</thumbnail></item>
- <type>Movies</type>
+ <type>movies</type>
 <item>
 <name>[COLOR=FF0198E1]Totally AWESOME 80s Movies HD 5.1[/COLOR]</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/80sMovies.xml</link>
