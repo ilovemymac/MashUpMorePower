@@ -123,7 +123,11 @@
 <thumbnail>http://thetvdb.com/banners/_cache/posters/76251-1.jpg</thumbnail>
 </item>
 
-
+<item>
+    <name>V (1983-1984)</name>
+    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/vtv.xml</link>
+    <thumbnail>http://thetvdb.com/banners/_cache/posters/76354-3.jpg</thumbnail>
+</item>
 ##############################################################################################################################################################
 <info>
     <message>[COLOR aqua]Follow Me On Twitter @ morepowerllc[/COLOR] [COLORblue]I am always updating. Please if you have anything to offer or a request let me know![/COLOR]</message>
