@@ -122,7 +122,11 @@
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/stingray.xml</link>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/76251-1.jpg</thumbnail>
 </item>
-
+<item>
+    <name>V The original Mini Series (1983)</name>
+    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/vmini.xml</link>
+    <thumbnail></thumbnail>
+</item>
 <item>
     <name>V (1983-1984)</name>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/vtv.xml</link>
