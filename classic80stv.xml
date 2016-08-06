@@ -128,6 +128,11 @@
     <thumbnail>http://thetvdb.com/banners/_cache/seasons/76354-0-4.jpg</thumbnail>
 </item>
 <item>
+    <name>V The Final Battle</name>
+    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/vfinalbattle.xml</link>
+    <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/jbgwfX3fda6nRRX2OKdfhMr9IRy.jpg</thumbnail>
+</item>
+<item>
     <name>V (1983-1984)</name>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/vtv.xml</link>
     <thumbnail>http://thetvdb.com/banners/_cache/posters/76354-3.jpg</thumbnail>
