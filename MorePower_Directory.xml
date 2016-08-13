@@ -61,7 +61,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <type>movies</type>
 </item>
 <item>
- <name>MGM Musicals (FIXED)</name>
+ <name>MGM Musicals</name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/mgmmusicals.xml</link>
  <thumbnail>http://i.ytimg.com/vi/OVCxJ1aT24A/hqdefault.jpg</thumbnail>
  <type>movies</type>
@@ -75,10 +75,10 @@ Enable Dolby Digital Transcoding - Selected</message4>
 </item>
 
 <item>
- <name>Hot TV series</name>
- <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/tvseries.xml</link>
- <thumbnail>http://i68.tinypic.com/1z2kc20.jpg</thumbnail>
- <type>tv</type>
+ <name>Movies from 2014 and older</name>
+ <link></link>
+ <thumbnail></thumbnail>
+ <type>Movies</type>
 </item>
 <item>
   <name>[COLOR green]Movies that take place in the future HD 5.1 [COLOR blue]NEW MOVIES ADDED[/COLOR]</name>
@@ -117,6 +117,12 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/kidslive.xml</link>
 <thumbnail>http://i65.tinypic.com/2h3qtr8.jpg</thumbnail>
 <type>movies</type>
+</item>
+<item>
+ <name>Hot TV series</name>
+ <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/tvseries.xml</link>
+ <thumbnail>http://i68.tinypic.com/1z2kc20.jpg</thumbnail>
+ <type>tv</type>
 </item>
 <item>
 <name>[COLOR=FF0198E1][B]Classic 70s and 80s TV[/B][/COLOR]</name>
