@@ -44,7 +44,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
     <title>[COLOR dodgerblue]Star Wars Complete Collection[/COLOR]</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/starwars1.xml</link>
     <thumbnail>http://www.bleedingcool.com/wp-content/uploads/2011/05/star-wars-4-to-6.jpg</thumbnail>
-    <type>Movies</type>
+    <type>movies</type>
 </item>
 <item>
 <name>[COLOR green]Awesome Action Films[/COLOR]</name>
@@ -78,7 +78,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <name>Movies from 2014 and older</name>
  <link></link>
  <thumbnail></thumbnail>
- <type>Movies</type>
+ <type>movies</type>
 </item>
 <item>
   <name>[COLOR green]Movies that take place in the future HD 5.1 [COLOR blue]NEW MOVIES ADDED[/COLOR]</name>
@@ -116,7 +116,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <name>HD Audio </name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/hdaudio.xml</link>
  <thumbnail>http://i66.tinypic.com/1zd2p2b.jpg</thumbnail>
- <type>Movies</type>
+ <type>movies</type>
 </item>
 <item>
 <name>[COLOR royalblue]Great Family and Kids Live Action Movies[/COLOR]</name>
