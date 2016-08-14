@@ -116,6 +116,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <name>HD Audio </name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/hdaudio.xml</link>
  <thumbnail>http://i66.tinypic.com/1zd2p2b.jpg</thumbnail>
+ <type>Movies</type>
 </item>
 <item>
 <name>[COLOR royalblue]Great Family and Kids Live Action Movies[/COLOR]</name>
