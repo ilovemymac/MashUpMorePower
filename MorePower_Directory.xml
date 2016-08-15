@@ -137,6 +137,30 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <date>Daily</date>
 <type>tv</type>
 </item>
+<item>
+<name>[COLOR=FF0198E1]Classic Live Action Disney [/COLOR]</name>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/ClassicDisney.xml</link>
+<thumbnail>http://2.bp.blogspot.com/-NRY8Ujb6jJg/TcgJA-_tWdI/AAAAAAAALlQ/6BdhR2aPR3Q/s1600/wdcclogoA.jpg</thumbnail>
+<type>movies</type>
+</item>
+
+<item>
+<name>[COLOR=FF0198E1]Eye Popping 3D movies[/COLOR]</name>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/3Dmovies.xml</link>
+<thumbnail>http://www.pardaphash.com/uploads/images/660/57899.png</thumbnail>
+<date>Daily</date>
+<type>movies</type>
+</item>
+
+<item>
+<name>[COLOR cornflowerblue]Complete Elvis movies Collection[/COLOR]</name>
+<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/elvis.xml</link>
+<thumbnail>http://wildgoo.com/mag1/Magnets%20Movie%20Poster%20Type/Elvis%20Presley%20movie%20posters%20%231.jpg</thumbnail>
+<date>4/6/2014</date>
+<type>movies</type>
+</item>
+
+
 
 <item><name>Classic Movies 30s-60s (coming soon)</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classicmovies.xml</link>
@@ -168,29 +192,6 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <thumbnail> </thumbnail>
 <date>09/9/13</date>
 <type>tv</type>
-</item>
-
-<item>
-<name>[COLOR=FF0198E1]Classic Live Action Disney [/COLOR]</name>
-<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/ClassicDisney.xml</link>
-<thumbnail>http://2.bp.blogspot.com/-NRY8Ujb6jJg/TcgJA-_tWdI/AAAAAAAALlQ/6BdhR2aPR3Q/s1600/wdcclogoA.jpg</thumbnail>
-<type>movies</type>
-</item>
-
-<item>
-<name>[COLOR=FF0198E1]Eye Popping 3D movies[/COLOR]</name>
-<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/3Dmovies.xml</link>
-<thumbnail>http://www.pardaphash.com/uploads/images/660/57899.png</thumbnail>
-<date>Daily</date>
-<type>movies</type>
-</item>
-
-<item>
-<name>[COLOR cornflowerblue]Complete Elvis movies Collection[/COLOR]</name>
-<link>https://github.com/ilovemymac/MashUpMorePower/raw/master/elvis.xml</link>
-<thumbnail>http://wildgoo.com/mag1/Magnets%20Movie%20Poster%20Type/Elvis%20Presley%20movie%20posters%20%231.jpg</thumbnail>
-<date>4/6/2014</date>
-<type>movies</type>
 </item>
 
 
