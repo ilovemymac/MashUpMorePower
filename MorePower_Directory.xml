@@ -75,8 +75,8 @@ Enable Dolby Digital Transcoding - Selected</message4>
 </item>
 
 <item>
- <name>Movies from 2014 and older</name>
- <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/MainMovieList.xml</link>
+ <name>Movies 2014 and older</name>
+ <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/mainmovielist.xml</link>
  <thumbnail></thumbnail>
  <type>movies</type>
 </item>
