@@ -41,7 +41,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 </item>
 
  <item>
-    <title>[COLOR dodgerblue]Star Wars Complete Collection[/COLOR]</title>
+    <title>[COLOR blue]Star Wars Complete Collection[/COLOR]</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/starwars1.xml</link>
     <thumbnail>http://www.bleedingcool.com/wp-content/uploads/2011/05/star-wars-4-to-6.jpg</thumbnail>
     <type>movies</type>
@@ -68,7 +68,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  </item>
 
 <item>
- <name>Time Travel Movies</name>
+ <name>[COLOR purple]Time Travel Movies[/COLOR]</name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/timetravel.xml</link>
  <thumbnail>http://i68.tinypic.com/9ir7ra.jpg</thumbnail>
  <type>movies</type>
@@ -81,7 +81,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <type>movies</type>
 </item>
 <item>
-  <name>[COLOR green]Movies that take place in the future HD 5.1 [COLOR blue]NEW MOVIES ADDED[/COLOR]</name>
+  <name>[COLOR blue]Movies that take place in the future HD 5.1 [COLOR blue]NEW MOVIES ADDED[/COLOR]</name>
   <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/future.xml</link>
   <thumbnail>http://i68.tinypic.com/2r5f1q0.jpg</thumbnail>
   <type>movies</type>
@@ -99,7 +99,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <type>movies</type>
 </item>
 <item>
- <name>007 James Bond Complete Colletion</name>
+ <name>[COLOR red]007 James Bond Complete Colletion[/COLOR]</name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/jamesbond.xml</link>
  <thumbnail>http://bluraymedia.ign.com/bluray/image/article/121/1215111/Bond50thCESpic_1324319836.jpg</thumbnail>
 </item>
