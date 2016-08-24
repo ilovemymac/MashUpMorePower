@@ -102,6 +102,7 @@ Enable Dolby Digital Transcoding - Selected</message4>
  <name>[COLOR red]007 James Bond Complete Colletion[/COLOR]</name>
  <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/jamesbond.xml</link>
  <thumbnail>http://bluraymedia.ign.com/bluray/image/article/121/1215111/Bond50thCESpic_1324319836.jpg</thumbnail>
+ <type>movies</type>
 </item>
 <item>
 <name>Box Sets 5.1 HD</name>
