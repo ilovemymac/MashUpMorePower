@@ -1,5 +1,3 @@
-#START
-
 
 <items>
 
@@ -10,11 +8,13 @@
 </item>
 
 <item>
-<title>976 Evil (1988)URL=http://stagevu.com/video/ulwepzrztlztprocessor=http://www.navixtreme.com/proc/stagevuplayer=defaultrating=-1.00# 2353583type=videoname=976 Evil 2URL=http://veehd.com/video/3220638processor=http://www.navixtreme.com/sproc/veehdplayer=defaultrating=-1.00# 2005971type=playlistname=[COLOR=FF0198E1]Halloweentown series[/COLOR]URL=http://www.navixtreme.com/playlist/81281/halloweentown_series.plxplayer=defaultrating=-1.00# 2353585type=videoname=Abraham Lincoln vs Zombies</title>
-<link>http://www.putlocker.com/file/E6A2F9A25D4DF3DA</link>
+<title>976 Evil (1988)</title>
+<link></link>
 <thumbnail>http://cf2.imgobject.com/t/p/original/hLy2LnHr0TZvelvSK0Dd4bmObTK.jpg</thumbnail>
 </item>
-
+<item>
+  <title>Abraham Lincoln vs Zombies</title>
+</item>
 <item>
 <title>The Adventures of Ichabod and MR Toad</title>
 <link></link>
@@ -22,12 +22,12 @@
 </item>
 
 <item>
-<title>Alvin and the Chipmunks Meet the Wolfman (italian and english audio)URL=http://veehd.com/video/4739257_Alvin-and-the-Chipmunks-Meet-the-Wolfman-2000-aviprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2353588type=videoname=Amityville (1979) 1080P</title>
+<title>Alvin and the Chipmunks Meet the Wolfman </title>
 <link>http://movreel.com/ar0s7ll6fthr.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/09/Amityville_poster.jpg/220px-Amityville_poster.jpg</thumbnail>
 </item>
 <item>
-  <title>The Amityville Horror (1979)</title>
+  <title>Amityville(1979)</title>
   <link>http://uploadx.org/rp5fg8z1tzo0</link>
   <thumbnail></thumbnail>
 </item>
@@ -39,19 +39,19 @@
 
 <item>
 <title>The Amityville Curse</title>
-<link>http://vidto.me/v0ohq8qt42hv.html</link>
+<link>https://www.youtube.com/watch?v=uRj7h18xa2E</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/60/The_Amityville_Curse_1990_DVD_Cover.JPG</thumbnail>
 </item>
 
 <item>
 <title>Amityville Dollhouse: Evil Never Dies (1996)</title>
-<link>http://movreel.com/7hgymqej4mdg.html</link>
+<link>https://www.youtube.com/watch?v=SUdSJDD0ib8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Amityville_Dollhouse.jpg/220px-Amityville_Dollhouse.jpg</thumbnail>
 </item>
 
 <item>
 <title>The Amityville Horror (2005) 720P</title>
-<link>http://uploadx.org/eakqn0bsq8jn</link>
+<link><sublink>http://uploadx.org/8j7aeuenvpx0</sublink><sublink>http://uploadx.org/eakqn0bsq8jn</sublink></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/The_Amityville_Horror_poster.JPG/220px-The_Amityville_Horror_poster.JPG</thumbnail>
 </item>
 <item>
@@ -88,13 +88,14 @@
 <link>http://uploadx.org/ev1k1x5ztagk</link>
 <thumbnail>http://img404.imageshack.us/img404/3654/aprilfoolsday1986h.jpg</thumbnail>
 </item>
-
 <item>
-<title>AsmodexiaURL=http://billionuploads.com/31clmupm6ge1processor=http://www.navixtreme.com/proc/billionuploadsplayer=defaultrating=-1.00# 2353811type=videoname=Asylum Blackout (2012)</title>
-<link>http://veehd.com/video/4742242_Asylum-Blackout-2012-DVD</link>
-<thumbnail>http://www.best-horror-movies.com/image-files/asylum-blackout-2012-movie-poster.jpg</thumbnail>
+  <title>The Blair Witch Project</title>
+  <link> http://uploadx.org/k8mfe0mdk513</link>
 </item>
-
+<item>
+  <title>The Cabin in the Woods</title>
+  <link> http://uploadx.org/k8mfe0mdk513</link>
+</item>
 <item>
 <title>Carrie (1976)</title>
 <link>http://uploadx.org/7efu35kw1cub</link>
@@ -106,11 +107,29 @@
   <thumbnail></thumbnail>
 </item>
 <item>
+  <title>Childs Play 2</title>
+  <link>http://uploadx.org/z9qtx78dwi69</link>
+  <thumbnail></thumbnail>
+</item>
+<item>
+  <title>Childs PLay 3</title>
+  <link>http://uploadx.org/6jsa31b9nw2z</link>
+  <thumbnail></thumbnail>
+</item>
+<item>
 <title>Childs Play 6: Curse of Chucky (2013) 720P</title>
-<link>http://movreel.com/l1yl8uwoco9j.html</link>
+<link></link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/3/39/Curse_of_Chucky%2C_Blu-ray_Art.jpg/220px-Curse_of_Chucky%2C_Blu-ray_Art.jpg</thumbnail>
 </item>
-
+<item>
+  <title>Christine</title>
+  <link>http://uploadx.org/5j7ey1jmjsq6</link>
+  <thumbnail></thumbnail>
+</item>
+<item>
+  <title>The Conjuring 2 (2016)</title>
+  <link>http://uploadx.org/f7426lnwuab4</link>
+</item>
 <item>
 <title>The Crow (1994)</title>
 <link>http://uploadx.org/etmlip4l5tyy</link>
@@ -118,21 +137,36 @@
 </item>
 
 <item>
-<title>Damien Omen II
-Dawn of the Dead (1978)
-Disney Girl Vs Monster (2012)</title>
-<link>http://vidto.me/4itavij7n7t5.html</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b0/Girl_vs._Monster_Official_Movie_Poster.jpg</thumbnail>
+<title>Damien Omen II</title>
+<link>http://uploadx.org/d1bslco8n5s4</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Disneys Halloween Treat (1982)
-Dracula Dead and Loving It
-The Exorcist
-Frankensein Meets the Wolfman (1943)</title>
-<link>http://movreel.com/m46e0tgdp8eu.html</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/44/Friday3.jpg</thumbnail>
+<title>Dawn of the Dead (1978)</title>
+<link>http://uploadx.org/nup0u4z3tlr0</link>
+<thumbnail></thumbnail>
 </item>
+
+<item>
+  <title>Domnion: Prequel to the Exorcist (2005)</title>
+  <link>http://uploadx.org/eljxfrp1lz6k</link>
+</item>
+
+<item>
+  <title>The Exorcist</title>
+  <link>http://uploadx.org/i83uwfgmjku4</link>
+</item>
+<item>
+  <title>THe Exorcist II</title>
+  <link>http://vodlocker.com/kj97ntquztyy</link>
+</item>
+
+<item>
+  <title>The Exorcist III</title>
+  <link>http://vidzi.tv/oa1kslc28f1t.html</link>
+</item>
+
 <item>
   <title>Friday the 13th</title>
   <link>http://uploadx.org/ml63g0gfbexz</link>
@@ -185,14 +219,14 @@ Frankensein Meets the Wolfman (1943)</title>
 </item>
 
 <item>
-<title>Halloween (1978) Extended EditionU</title>
-<link>http://movreel.com/8iafhsuu64mp.html</link>
+<title>Halloween (1978)</title>
+<link>http://uploadx.org/qah4kkgly27k</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/HalloweenH20poster.jpg/220px-HalloweenH20poster.jpg</thumbnail>
 </item>
 
 <item>
 <title>Halloween II (1981) 720P</title>
-<link>http://movreel.com/7179thtpnjnq.html</link>
+<link>http://uploadx.org/w4xx492z9npk</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/11/HalloweenII_poster.jpg/220px-HalloweenII_poster.jpg</thumbnail>
 </item>
 
@@ -226,115 +260,121 @@ Frankensein Meets the Wolfman (1943)</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Halloween_Resurrection_Theatrical_Poster_2002.jpg/220px-Halloween_Resurrection_Theatrical_Poster_2002.jpg</thumbnail>
 </item>
 
-<item>
-<title>Halloween in Sleepy HollowURL=http://veehd.com/video/4602309_Halloween-In-Sleepy-Hollow-2010-Animation-7P-Vaults-of-Wondersprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2013258type=videoname=Halloween Is Grinch NightURL=http://veehd.com/video/4613020_Halloween-is-Grinch-Night-1977processor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2122194type=videoname=Halloween Night FrightsURL=http://www.putlocker.com/file/C6525C1BB6AB7E62processor=http://www.navixtreme.com/wlfwood/processors/putlocker.txtplayer=defaultrating=-1.00# 2011518type=videoname=The Halloween TreeURL=http://veehd.com/video/4510610_The-Halloween-Tree-1993processor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2005976type=playlistname=Halloween TV SpecialsURL=http://www.navixtreme.com/playlist/58503/halloween_tv_specials.plxplayer=defaultrating=-1.00# 2013137type=videoname=Haunted House of HorrorURL=http://veehd.com/video/4552358_Haunted-House-of-Horror-1969-DVDRipprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2013259type=videoname=Haunted MansionURL=http://veehd.com/video/4543973_Disney-Haunted-Mansion-2003processor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2356984type=videoname=The Haunting in Connecticut 2: Ghosts of Georgia (2013) 720P</title>
-<link>http://movreel.com/v9qvladjyhxw.html</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/The_Haunting_in_Connecticut_2_Ghosts_of_Georgia_Poster.jpg/220px-The_Haunting_in_Connecticut_2_Ghosts_of_Georgia_Poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>Hocus PocusURL=http://vidto.me/pucvd3zngsa9.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/vidto_me.txtplayer=defaultrating=-1.00# 2013147type=videoname=House of 1000 CorpsesURL=http://veehd.com/video/1985363_House-of-1000-Corpses-2003processor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2122840type=videoname=House of DraulaURL=http://veehd.com/video/4561809_1945-House-of-Draculaprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2122842type=videoname=House of Frankenstein (1944)URL=http://veehd.com/video/4560009_1944-House-Of-Frankensteinprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2013134type=videoname=House on Haunted Hill (1999)URL=http://veehd.com/video/4774924_HOUSE-ON-HAUNTED-HILL-1999-aviprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2122837type=videoname=The HungerURL=http://veehd.com/video/2018040_very-beautiful-vampires-the-hunger-1983processor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2013128type=videoname=Idle Hands (1999)URL=http://veehd.com/video/2067072_Idle-Hands-1999-SEANGOQSSprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2356270type=videoname=Jason Goes to Hell: The Final Friday (1993) 720P</title>
-<link>http://movreel.com/m268x5jtuyep.html</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Jason_goes_to_hell.jpg/220px-Jason_goes_to_hell.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Last House on the LEftURL=http://veehd.com/video/4324293_LAST-HOUSE-ON-THE-LEFT-1972-Wes-Craven-From-the-7P-Vaults-of-Horrorsprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2013131type=videoname=The Legend of Sleepy HollowURL=http://veehd.com/video/4602339_The-Legend-of-Sleepy-Hollow-1949-Walt-Disney-Animation-7P-Vaults-of-Wondersprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2006132type=videoname=Moms Got a date with a VampireURL=http://vidto.me/ygwqw99in9rc.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/vidto_me.txtplayer=defaultrating=-1.00# 2122839type=videoname=The Monolith Monsters (1957)URL=http://veehd.com/video/4529979_The-Monolith-Monsters-1957-aviprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2005975type=videoname=Monster High City Of FrightsURL=http://vidto.me/oqx26ckd6vnq.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/vidto_me.txtplayer=defaultrating=-1.00# 2005974type=videoname=Monster High Ghouls RuleURL=http://vidto.me/f6grggvv283r.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/vidto_me.txtplayer=defaultrating=-1.00# 2005973type=videoname=Monster High Why Do Ghouls Fall in LoveURL=http://vidto.me/qss3nphrebyq.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/vidto_me.txtplayer=defaultrating=-1.00# 2122841type=videoname=The Mummys CurseURL=http://veehd.com/video/4523708_The-Mummys-Curse-1944-divxprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2108400type=videoname=My Best Friend is a VampireURL=http://vidto.me/j6rzzoiub3am.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/vidto_me.txtplayer=defaultrating=-1.00# 2006386type=videoname=News Radio HalloweenURL=http://veehd.com/video/4641581_News-Radio-Halloween-aviprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2353199type=videoname=Night of the Living Dead (1968)URL=http://vidto.me/34g71ikj9g6v.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/vidto_me.txtplayer=defaultrating=-1.00# 2099989type=videoname=Night of the Living Dead (1990)URL=http://veehd.com/video/2083311_Night-of-the-Living-Dead-1990processor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2353190type=videoname=Nightmare on Elm Street (1984) 1080P</title>
-<link>http://clicknupload.com/wyyathiv9l2s</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Nightmare01.jpg/220px-Nightmare01.jpg</thumbnail>
-</item>
 
 <item>
 <title>Nightmare on Elm Street 7: Wes Craven's New Nightmare</title>
-<link>http://movreel.com/5f3haxn4bnkh.html</link>
+<link>http://uptobox.com/b0pvbnyrpv6h</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/97/Nightmare7.jpg/220px-Nightmare7.jpg</thumbnail>
 </item>
-
+<item>
+  <title>Nightmare on Elm Street</title>
+  <link>http://uptobox.com/43adi1u7mqai</link>
+  <thumbnail></thumbnail>
+</item>
 <item>
 <title>Nightmare on Elm Street II: Freddys Revenge (1985) 1080P</title>
-<link>http://clicknupload.com/qnms4f2ano9c</link>
+<link>http://uptobox.com/wmtdd16yty8vc</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Nightmare2.jpg/220px-Nightmare2.jpg</thumbnail>
 </item>
 
 <item>
 <title>Nightmare on Elm Street III: Dream Warriors (1987) 1080P</title>
-<link>http://clicknupload.com/krgal0lcgy2q</link>
+<link>http://uptobox.com/vmoxmencajyc</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Nightmare3.jpg/220px-Nightmare3.jpg</thumbnail>
 </item>
 
 <item>
 <title>Nightmare on Elm Street IV: The Dream Master (1988) 1080P</title>
-<link>http://clicknupload.com/g0qbgggt68dd</link>
+<link>http://streamin.to/2qkiq571ysdq</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/50/Nightmare4.jpg/215px-Nightmare4.jpg</thumbnail>
 </item>
 
 <item>
 <title>Nightmare on Elm Street V: The Dream Child (1989) 1080P</title>
-<link>http://clicknupload.com/ecimhzpkhhy1</link>
+<link>http://uptobox.com/5q0bc6iozsn2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Nightmare5.jpg/220px-Nightmare5.jpg</thumbnail>
 </item>
 
 <item>
 <title>A Nightmare on Elm Street VI: Freddy's Dead(1991) 1080p</title>
-<link>http://movreel.com/nlqrayk0o1mz.html</link>
+<link>http://uptobox.com/hmdngg27ohfl</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Nightmare6.jpg/220px-Nightmare6.jpg</thumbnail>
 </item>
 
 <item>
 <title>The Omen (1976) 1080P</title>
-<link>http://movreel.com/m0o4wi2n2m40.html</link>
+<link><sublink>http://vidzi.tv/b2ryzwvpoqx2.html</sublink><sublink>http://vidbull.com/azff5z06txiz.html</sublink></link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Omen_ver4.jpg/220px-Omen_ver4.jpg</thumbnail>
 </item>
 
-<item>
-<title>The omen II: Damien (1978) 1080P</title>
-<link>http://movreel.com/k0a5ob2hwmo6.html</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/b/b8/DamienomenII.jpg/220px-DamienomenII.jpg</thumbnail>
-</item>
 
 <item>
-<title>Once Upon a HalloweenURL=http://veehd.com/video/2178342_Once-Upon-A-Halloweenprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2353812type=videoname=Paranormal Activity (2007)</title>
-<link>http://veehd.com/video/4682428_Paranormal-Activity-flv</link>
-<thumbnail>http://www.movieposter.com/posters/archive/main/150/MPW-75081</thumbnail>
+  <title>Poltergeist (1982)</title>
+  <link>http://vidzi.tv/scgqtcl5da71.html</link>
+  <thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Phantom of the MegaplexURL=http://vidto.me/frqsz8hjt8j2.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/vidto_me.txtplayer=defaultrating=-1.00# 2354093type=videoname=Poltergeist (1982) 720P</title>
-<link>http://cloudyvideos.com/gbduio1neabj</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/43/Poltergeistposter.jpg</thumbnail>
+  <title>Poltergeist II</title>
+  <link><sublink>http://vshare.eu/7ojfxypt75kq.htm</sublink>
+  <sublink>http://vidzi.tv/ltjzetyjf8um.html</sublink></link>
 </item>
-
 <item>
 <title>Poltergeist III (1988) 720P</title>
-<link>http://cloudyvideos.com/ac5rfgwviymq</link>
+<link>http://streamin.to/v4rns8kznmt5</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Poltergeist_iii_movie_poster.jpg/220px-Poltergeist_iii_movie_poster.jpg</thumbnail>
 </item>
 
 <item>
 <title>Pumpkinhead (1988)</title>
-<link>http://veehd.com/video/4599820_Pumpkinhead-1988-DvdRip</link>
+<link>http://uploadx.org/rj00q83rlqac</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Pumpkinhead.jpg/220px-Pumpkinhead.jpg</thumbnail>
 </item>
 
 <item>
 <title>Pumpkinhead 3: Ashes To Ashes (2006)</title>
-<link>http://veehd.com/video/4599995_Pumpkinhead-Ashes-to-Ashes-2006-DvdRip</link>
+<link>http://vidzi.tv/xc50gmdeodgs.html</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Pumpkinhead-_Ashes_to_Ashes_FilmPoster.jpeg/190px-Pumpkinhead-_Ashes_to_Ashes_FilmPoster.jpeg</thumbnail>
 </item>
 
 <item>
 <title>Pumpkinhead II Blood Wings (1994)</title>
-<link>http://veehd.com/video/4599871_Pumpkinhead-II-Blood-Wings-1994-DvdRip</link>
+<link>http://vodlocker.com/1akcwcxbti0n</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/PumpkinheadII.jpg/220px-PumpkinheadII.jpg</thumbnail>
 </item>
 
 <item>
-<title>The Purge: Anarchy (2014) 1080P DD5.1URL=http://mightyupload.com/o5eyaslyh3zj/The.Purge.Anarchy.2014.1080p.WEB-DL.DD5.1.H264-RARBG.mkv.htmlprocessor=http://www.navixtreme.com/wlfwood/processors/mightyupload_com.txtplayer=defaultrating=-1.00# 2006377type=videoname=The Real Ghostbusters S1E08 When Halloween Was ForeverURL=http://veehd.com/video/4502335_The-Real-Ghostbusters-s1e08-When-Halloween-Was-Foreverprocessor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2006379type=videoname=The Real Ghostbusters S3E08 Halloween 2.5URL=http://veehd.com/video/4502415_The-Real-Ghostbusters-s3e08-Halloween-2-5processor=http://www.navixtreme.com/wlfwood/processors/unregistered/veehd.txtplayer=defaultrating=-1.00# 2354092type=videoname=The Ring (2002)</title>
+<title>The Purge: Anarchy (2014)</title>
 <link>http://veehd.com/video/2629357_THE-RING-2002</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Theringpostere.jpg/220px-Theringpostere.jpg</thumbnail>
 </item>
-
-</items>
-
-
-#END
+<item>
+  <title>The Ring</title>
+  <link>http://uploadx.org/0llx5vrybody</link>
+  <thumbnail></thumbnail>
+</item>
+ <item>
+<title>The Return Of The Living Dead (1985)</title>
+<linkhttp://uploadx.org/ldqvwhrulyoq</link>
+<thumbnail> </thumbnail>
+ </item>
+ <item>
+   <title>Saw</title>
+   <link>http://uploadx.org/ixfing9pneaz</link>
+   <thumbnail></thumbnail>
+ </item>
+ 
+ <item>
+   <title>Saw II</title>
+   <link>http://uploadx.org/wti8gf2yoygx</link>
+   <thumbnail></thumbnail>
+ </item>
+ <item>
+   <title>Saw III</title>
+   <link>http://uploadx.org/t4i457silhdn</link>
+   <thumbnail></thumbnail>
+ </item>
+<item>
+  <title>Saw V</title>
+  <link>http://uploadx.org/ruhtuj3dnfkr</link>
+  <thumbnail></thumbnail>
+</item>
