@@ -170,7 +170,12 @@ Enable Dolby Digital Transcoding - Selected</message4>
 <date>11/1/2013</date>
 <type>movies</type>
 </item>
-
+<item>
+ <name>Classic Christmas Movies</name>
+ <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/classicchristmas.xml</link>
+ <thumbnail></thumbnail>
+ <type>Movies</type>
+</item>
 <item>
 <name>Family Christmas</name>
 <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/christmas1.xml</link>
