@@ -14,6 +14,10 @@
     <type>Movies</type>
 </item>
 <item>
+    <title>Teenage Mutant Ninja Turtles Movie Collection</title>
+    <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/teenagemuntant.xml</link>
+    <thumbnail>http://images.static-bluray.com/movies/covers/74066_front.jpg</thumbnail>
+<item>
     <title>Star Trek Collection</title>
     <link>https://github.com/ilovemymac/MashUpMorePower/raw/master/startrek.xml</link>
     <thumbnail>http://clzmovies.r.sizr.io/core/covers/lg/10/10_146696_0_StarTrekTheOriginalMotionPictu.jpg</thumbnail>
